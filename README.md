@@ -12,7 +12,7 @@
 **STAFF:**
 - **Versión original:** MTBB
 - **Traducción y adaptación:** Zagon
-- **Corrección**: iamblue
+- **Corrección y hater profesional**: iamblue
 - **KFX:** Kuro Diamonds
 - **Encode:** NF/Abema
 
