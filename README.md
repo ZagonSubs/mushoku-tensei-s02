@@ -6,7 +6,7 @@
 
 ---
 
-![clueless](https://cdn.discordapp.com/emojis/1036154699700764712.webp?size=48&quality=lossless)
+![clueless](https://cdn.discordapp.com/emojis/1036154699700764712.webp?size=48&quality=lossless) 
 
 ---
 
