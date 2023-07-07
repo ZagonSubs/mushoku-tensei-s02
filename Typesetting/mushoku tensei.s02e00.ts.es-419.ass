@@ -12,7 +12,7 @@ YCbCr Matrix: TV.709
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Signs,Arial,80,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,20,20,23,1
-Style: Credits,A-OTF Futo Min A101 Pro,40,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H32000000,-1,0,0,0,100,100,0.1,0,1,0,0.8,2,10,10,10,1
+Style: Credits,A-OTF Ryumin Pr5 EH-KL,40,&H00FFFFFF,&H00FFFFFF,&H005B5B5B,&H82000000,0,0,0,0,100,100,0.1,0,1,0.5,3,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -24,9 +24,9 @@ Dialogue: 0,0:23:36.02,0:23:41.02,Signs,,0,0,0,,{\fs34\blur0.5\fnQuadraat-Regula
 Dialogue: 0,0:23:36.73,0:23:41.02,Signs,,0,0,0,,{\c&H02124B&\blur0.55\fnQuadraat-Regular\pos(960,653.238)\alpha&HFF&\t(0,120,\alpha&H00&)}E{\alpha&HFF&\t(72,192,\alpha&H00&)}l {\alpha&HFF&\t(145,265,\alpha&H00&)}M{\alpha&HFF&\t(217,337,\alpha&H00&)}a{\alpha&HFF&\t(290,410,\alpha&H00&)}g{\alpha&HFF&\t(363,483,\alpha&H00&)}o {\alpha&HFF&\t(435,555,\alpha&H00&)}D{\alpha&HFF&\t(508,628,\alpha&H00&)}e{\alpha&HFF&\t(581,701,\alpha&H00&)}s{\alpha&HFF&\t(653,773,\alpha&H00&)}c{\alpha&HFF&\t(726,846,\alpha&H00&)}o{\alpha&HFF&\t(798,918,\alpha&H00&)}r{\alpha&HFF&\t(871,991,\alpha&H00&)}a{\alpha&HFF&\t(944,1064,\alpha&H00&)}z{\alpha&HFF&\t(1016,1136,\alpha&H00&)}o{\alpha&HFF&\t(1089,1209,\alpha&H00&)}n{\alpha&HFF&\t(1162,1282,\alpha&H00&)}a{\alpha&HFF&\t(1234,1354,\alpha&H00&)}d{\alpha&HFF&\t(1307,1427,\alpha&H00&)}o
 Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\fs35\blur3\pos(1758.8,1027.2)}.:ZagonSubs:.
 Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\blur0.3\fs35\pos(1758.8,1027.2)}.:ZagonSubs:.
-Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\blur3\pos(396.67,505.33)}Traducción: Zagon
-Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\pos(396.67,505.33)}Traducción: Zagon
-Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\blur3\pos(406,544.67)}Corrección: Egumo
-Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\pos(406,544.67)\1c&HFFFFFF&}Corrección: Egumo
-Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\blur3\pos(416.67,584)}KFX: Kuro Diamonds
-Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\pos(416.67,584)}KFX: Kuro Diamonds
+Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\blur2\pos(396.67,505.33)}Traducción: Zagon
+Dialogue: 1,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\pos(396.67,505.33)\bord0\shad0}Traducción: Zagon
+Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\blur2\pos(400,544.67)}Corrección: Egumo
+Dialogue: 1,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\pos(400,544.67)\bord0\shad0}Corrección: Egumo
+Dialogue: 0,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\blur2\pos(416.67,584)}KFX: Kuro Diamonds
+Dialogue: 1,0:23:25.01,0:23:29.03,Credits,,0,0,0,,{\fad(520,437)\pos(416.67,584)\bord0\shad0}KFX: Kuro Diamonds
