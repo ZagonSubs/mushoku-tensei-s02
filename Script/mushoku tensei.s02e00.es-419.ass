@@ -12,7 +12,6 @@ YCbCr Matrix: TV.709
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Google Sans Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H32000000,0,0,0,0,94,100,0,0,1,3.9,0,2,150,150,45,1
-Style: Signs,Arial,80,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,20,20,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -77,7 +76,7 @@ Dialogue: 0,0:06:18.14,0:06:20.48,Default,,0,0,0,,Qué hermosa mañana.
 Dialogue: 0,0:06:20.84,0:06:24.30,Default,,0,0,0,,Luke, ¿cuál es la agenda de hoy?
 Dialogue: 0,0:06:24.30,0:06:28.19,Default,,0,0,0,,Luego del desayuno, se reunirá en el gran salón.
 Dialogue: 0,0:06:28.19,0:06:32.38,Default,,0,0,0,,En la tarde, se verá con el señor Pilemon.
-Dialogue: 0,0:06:32.38,0:06:35.51,Default,,0,0,0,,¿El Señor Pilemon?
+Dialogue: 0,0:06:32.38,0:06:35.51,Default,,0,0,0,,¿Señor Pilemon?
 Dialogue: 0,0:06:35.51,0:06:38.51,Default,,0,0,0,,¿Por qué hablas así de tu propio padre?
 Dialogue: 0,0:06:38.51,0:06:42.01,Default,,0,0,0,,Me enseñaron a separar mi vida privada de mis deberes.
 Dialogue: 0,0:06:51.16,0:06:52.21,Default,,0,0,0,,¡Ahí está!
@@ -192,7 +191,7 @@ Dialogue: 0,0:12:57.16,0:12:57.97,Default,,0,0,0,,Sí.
 Dialogue: 0,0:12:57.97,0:12:59.24,Default,,0,0,0,,Lo sé.
 Dialogue: 0,0:12:59.24,0:13:01.81,Default,,0,0,0,,Hasta entonces, no muestre ninguna debilidad.
 Dialogue: 0,0:13:02.31,0:13:02.93,Default,,0,0,0,,Sí.
-Dialogue: 0,0:13:03.33,0:13:06.90,Default,,0,0,0,,Luke, cuida bien de su Alteza.
+Dialogue: 0,0:13:03.33,0:13:06.90,Default,,0,0,0,,Luke, cuide bien de su Alteza.
 Dialogue: 0,0:13:06.90,0:13:07.68,Default,,0,0,0,,¡Sí!
 Dialogue: 0,0:13:09.96,0:13:13.37,Default,,0,0,0,,Fitts, te has adaptado rápido a la etiqueta del palacio.
 Dialogue: 0,0:13:13.37,0:13:14.32,Default,,0,0,0,,No,
@@ -258,7 +257,7 @@ Dialogue: 0,0:16:18.29,0:16:19.54,Default,,0,0,0,,Entonces...
 Dialogue: 0,0:16:19.54,0:16:21.30,Default,,0,0,0,,¿vamos a la cama?
 Dialogue: 0,0:16:26.83,0:16:29.91,Default,,0,0,0,,Solo dormiremos, ¿verdad?
 Dialogue: 0,0:16:29.91,0:16:31.58,Default,,0,0,0,,Sí, por supuesto.
-Dialogue: 0,0:16:31.58,0:16:33.60,Default,,0,0,0,,Sus ojos me dan miedo
+Dialogue: 0,0:16:31.58,0:16:33.60,Default,,0,0,0,,Sus ojos me dan miedo.
 Dialogue: 0,0:16:33.60,0:16:35.61,Default,,0,0,0,,¿Por qué te dan miedo?
 Dialogue: 0,0:16:35.61,0:16:37.14,Default,,0,0,0,,Bueno, lo admito,
 Dialogue: 0,0:16:37.14,0:16:38.56,Default,,0,0,0,,estoy excitada.

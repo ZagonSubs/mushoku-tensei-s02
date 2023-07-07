@@ -14,9 +14,10 @@
 
 - **Versión original:** MTBB
 - **Traducción y adaptación:** Zagon
-- **Corrección**: iamblue
-- **División de líneas y hater profesional**: iamblue
+- **Corrección**: Egumo
+- **División de líneas y hater profesional**: Egumo
 - **KFX:** Kuro Diamonds
+- **QC**: Kuro Diamonds
 - **Encode:** NF/Abema
 
 ---
