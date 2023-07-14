@@ -27,270 +27,336 @@ Style: Credits,A-OTF Ryumin Pr5 EH-KL,40,&H00FFFFFF,&H00FFFFFF,&H005B5B5B,&H8200
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:23.65,0:00:24.69,Default,,0,0,0,,¡Bien!
-Dialogue: 0,0:00:24.69,0:00:25.45,Default,,0,0,0,,¡Maldita sea!
+Dialogue: 0,0:00:23.65,0:00:24.64,Default,,0,0,0,,¡Bien!
+Dialogue: 0,0:00:24.64,0:00:25.45,Default,,0,0,0,,Mierda.
 Dialogue: 0,0:00:25.45,0:00:26.77,Default,,0,0,0,,Otra vez.
-Dialogue: 0,0:00:28.00,0:00:29.18,Default,,0,0,0,,¿Estás haciendo trampa?
-Dialogue: 0,0:00:29.18,0:00:30.64,Default,,0,0,0,,¡Claro que no!
-Dialogue: 0,0:00:30.64,0:00:31.61,Default,,0,0,0,,¿Seguro?
-Dialogue: 0,0:00:32.54,0:00:33.82,Default,,0,0,0,,Ya, está bien.
-Dialogue: 0,0:00:33.82,0:00:35.32,Default,,0,0,0,,Vamos. Mira si quieres.
-Dialogue: 0,0:00:46.83,0:00:48.82,Default,,0,0,0,,Parece que es mi día de suerte.
-Dialogue: 0,0:00:48.38,0:00:49.64,Default,,0,0,0,,{\an8}¡Carajo!
-Dialogue: 0,0:00:49.64,0:00:51.14,Default,,0,0,0,,Perdón.
+Dialogue: 0,0:00:28.20,0:00:29.28,Default,,0,0,0,,¿Estás haciendo trampa?
+Dialogue: 0,0:00:29.28,0:00:30.64,Default,,0,0,0,,Claro que no.
+Dialogue: 0,0:00:31.02,0:00:31.61,Default,,0,0,0,,¿Seguro?
+Dialogue: 0,0:00:32.56,0:00:33.82,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:00:33.82,0:00:35.32,Default,,0,0,0,,Mira si quieres.
+Dialogue: 0,0:00:47.12,0:00:48.82,Default,,0,0,0,,Parece que es mi día de suerte.
+Dialogue: 0,0:00:48.82,0:00:49.64,Default,,0,0,0,,Mierda.
+Dialogue: 0,0:00:49.64,0:00:51.14,Default,,0,0,0,,Lo siento.
 Dialogue: 0,0:00:51.14,0:00:52.71,Default,,0,0,0,,Tienes que estar haciendo trampa.
 Dialogue: 0,0:00:52.71,0:00:55.04,Default,,0,0,0,,Solo págame.
 Dialogue: 0,0:00:55.04,0:00:55.63,Default,,0,0,0,,Oye.
 Dialogue: 0,0:00:55.63,0:00:57.17,Default,,0,0,0,,La próxima sin falta.
-Dialogue: 0,0:01:09.80,0:01:13.47,Default,,0,0,0,,Has estado suspirando bastante.
-Dialogue: 0,0:01:13.47,0:01:14.86,Default,,0,0,0,,¿Qué ocurre?
-Dialogue: 0,0:01:26.78,0:01:28.19,Default,,0,0,0,,Perdón.
-Dialogue: 0,0:01:30.49,0:01:32.57,Default,,0,0,0,,¿Qué te trae hasta el norte?
-Dialogue: 0,0:01:33.33,0:01:35.70,Default,,0,0,0,,¿De qué hablas?
-Dialogue: 0,0:01:35.70,0:01:38.13,Default,,0,0,0,,Estás yendo a un lugar peligroso.
-Dialogue: 0,0:01:38.13,0:01:42.33,Default,,0,0,0,,Pero no me pareces un guardaespaldas aventurero como nosotros. {check pls}
-Dialogue: 0,0:01:42.33,0:01:45.19,Default,,0,0,0,,Mago o no, debes de seguir siendo solo un niño.
-Dialogue: 0,0:01:45.19,0:01:49.05,Default,,0,0,0,,Disculpe, ¿debo responder eso?
-Dialogue: 0,0:01:55.26,0:01:57.56,Default,,0,0,0,,¡Suzanne solo intentaba ser amable!
-Dialogue: 0,0:01:57.56,0:01:58.60,Default,,0,0,0,,¡¿Esa es forma de tratarla?!
-Dialogue: 0,0:01:59.72,0:02:03.86,Default,,0,0,0,,{\an8}Sara, él tampoco quiere empezar una pelea.
-Dialogue: 0,0:02:01.22,0:02:02.53,Default,,0,0,0,,{\i1}Son igualitas.
-Dialogue: 0,0:02:03.86,0:02:06.61,Default,,0,0,0,,Pero estás preocupada por él desde ayer.
-Dialogue: 0,0:02:06.95,0:02:09.53,Default,,0,0,0,,Dices que se ve deprimido.
-Dialogue: 0,0:02:11.35,0:02:16.37,Default,,0,0,0,,Estoy buscando a mi madre, una víctima de la teletransportación masiva que hubo en Fittoa.
-Dialogue: 0,0:02:22.10,0:02:23.37,Default,,0,0,0,,Esa tampoco...
-Dialogue: 0,0:02:23.98,0:02:25.67,Default,,0,0,0,,es excusa para ser grosero.
-Dialogue: 0,0:02:27.69,0:02:32.72,Default,,0,0,0,,¿Cómo la vas a encontrar?\NEl norte es un lugar grande.
-Dialogue: 0,0:02:35.54,0:02:37.35,Default,,0,0,0,,Es verdad.
-Dialogue: 0,0:02:37.35,0:02:39.02,Default,,0,0,0,,Ya me las arreglaré.
-Dialogue: 0,0:02:39.02,0:02:40.67,Default,,0,0,0,,¿Tienes alguna pista?
-Dialogue: 0,0:02:42.48,0:02:46.82,Default,,0,0,0,,Si quieres, te puedo decir\Ncomo son las tierras del norte.
-Dialogue: 0,0:02:48.29,0:02:49.34,Default,,0,0,0,,Claro...
-Dialogue: 0,0:02:49.78,0:02:51.69,Default,,0,0,0,,Bueno, si insistes...
-Dialogue: 0,0:02:52.24,0:02:56.07,Default,,0,0,0,,Bien, presta atención.
-Dialogue: 0,0:02:56.52,0:02:59.53,Default,,0,0,0,,En la mayoría de países,\Nlas tierras en el norte son pobres,
-Dialogue: 0,0:02:59.53,0:03:04.33,Default,,0,0,0,,pero a las Tres Grandes Naciones Mágicas les va bien por su cuenta.
-Dialogue: 0,0:03:04.33,0:03:07.40,Default,,0,0,0,,El Reino de Ranoa es excelente entrenando magos.
-Dialogue: 0,0:03:07.40,0:03:10.21,Default,,0,0,0,,El Duque de Neris produce\Nbuenos instrumentos mágicos.
-Dialogue: 0,0:03:10.60,0:03:14.12,Default,,0,0,0,,El Duque de Basherant se especialista en investigaciones arcanas.
-Dialogue: 0,0:03:14.12,0:03:16.43,Default,,0,0,0,,Estamos en camino hacia el último.
-Dialogue: 0,0:03:16.81,0:03:22.22,Default,,0,0,0,,Y bueno, todos formaron una alianza para avanzar{juntos} el curso de la magia.
-Dialogue: 0,0:03:22.50,0:03:23.66,Default,,0,0,0,,¿Entendiste?
-Dialogue: 0,0:03:47.30,0:03:49.13,Default,,0,0,0,,Parece que todos están aquí.
-Dialogue: 0,0:03:49.13,0:03:52.19,Default,,0,0,0,,Vaya, que cansada estoy. Hay que irnos.
-Dialogue: 0,0:03:50.07,0:03:52.62,Default,,0,0,0,,{\an8}Este viaje sí que hizo que me cansara.
-Dialogue: 0,0:03:56.20,0:03:57.49,Default,,0,0,0,,Hace frío.
-Dialogue: 0,0:04:01.05,0:04:04.47,Default,,0,0,0,,Disculpe, me gustaría alquilar una habitación por un mes, por favor.
-Dialogue: 0,0:04:05.83,0:04:08.81,Default,,0,0,0,,Por supuesto. Gracias.
-Dialogue: 0,0:04:10.93,0:04:12.06,Default,,0,0,0,,Firme aquí.
-Dialogue: 0,0:04:19.57,0:04:22.58,Default,,0,0,0,,Use la habitación que está al fina\N del corredor del tercer piso.
-Dialogue: 0,0:04:22.58,0:04:23.72,Default,,0,0,0,,En cuanto al pago...
-Dialogue: 0,0:04:47.74,0:04:49.01,Default,,0,0,0,,Eris...
-Dialogue: 0,0:04:51.02,0:04:52.20,Default,,0,0,0,,No, basta.
-Dialogue: 0,0:04:52.84,0:04:57.27,Default,,0,0,0,,{\i1}No estoy viajando para aliviar mi depresión. Tengo que encontrar a Zenith.
-Dialogue: 0,0:05:04.84,0:05:06.24,Default,,0,0,0,,¡Ah, ahí estás!
-Dialogue: 0,0:05:06.24,0:05:07.48,Default,,0,0,0,,Escuché que pagan bien.
-Dialogue: 0,0:05:07.48,0:05:08.50,Default,,0,0,0,,¿De verdad?
-Dialogue: 0,0:05:08.50,0:05:09.21,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:05:12.50,0:05:14.52,Default,,0,0,0,,Mira, un niño.
-Dialogue: 0,0:05:14.52,0:05:16.02,Default,,0,0,0,,¿Un principiante?
-Dialogue: 0,0:05:16.02,0:05:18.46,Default,,0,0,0,,Probablemente vino a jugar.
-Dialogue: 0,0:05:19.45,0:05:20.51,Default,,0,0,0,,¿Quién es ese niño?
+Dialogue: 0,0:01:09.85,0:01:13.47,Default,,0,0,0,,Has estado suspirando bastante.
+Dialogue: 0,0:01:13.90,0:01:14.86,Default,,0,0,0,,¿Qué ocurre?
+Dialogue: 0,0:01:26.95,0:01:28.19,Default,,0,0,0,,Perdón.
+Dialogue: 0,0:01:30.59,0:01:32.50,Default,,0,0,0,,¿Qué te trae hasta el norte?
+Dialogue: 0,0:01:33.33,0:01:35.70,Default,,0,0,0,,¿Qué quieres decir?
+Dialogue: 0,0:01:35.70,0:01:38.21,Default,,0,0,0,,Este lugar es peligroso.
+Dialogue: 0,0:01:38.21,0:01:42.33,Default,,0,0,0,,Pero no pareces un aventurero \Nguardaespaldas como nosotros. {check pls}
+Dialogue: 0,0:01:42.33,0:01:45.19,Default,,0,0,0,,Mago o no, aún eres solo un niño.
+Dialogue: 0,0:01:45.19,0:01:46.47,Default,,0,0,0,,Disculpa,
+Dialogue: 0,0:01:46.47,0:01:49.05,Default,,0,0,0,,¿debo responder eso?
+Dialogue: 0,0:01:55.48,0:01:57.60,Default,,0,0,0,,¡Suzanne solo intenta ser amable!
+Dialogue: 0,0:01:57.60,0:01:58.60,Default,,0,0,0,,¡¿Cuál es tu problema?!
+Dialogue: 0,0:01:59.72,0:02:03.73,Default,,0,0,0,,{\an8}Sara, no quiero empezar una pelea.
+Dialogue: 0,0:02:01.22,0:02:02.53,Default,,0,0,0,,{\i1}Son iguales.
+Dialogue: 0,0:02:03.73,0:02:06.61,Default,,0,0,0,,Pero estás preocupada desde ayer.
+Dialogue: 0,0:02:07.08,0:02:09.53,Default,,0,0,0,,Dices que se ve deprimido.
+Dialogue: 0,0:02:11.35,0:02:12.87,Default,,0,0,0,,Busco a mi madre.
+Dialogue: 0,0:02:12.87,0:02:16.37,Default,,0,0,0,,Desapareció en la catástrofe mágica de Fittoa.
+Dialogue: 0,0:02:22.10,0:02:23.37,Default,,0,0,0,,Eso tampoco...
+Dialogue: 0,0:02:23.98,0:02:25.67,Default,,0,0,0,,es excusa.
+Dialogue: 0,0:02:27.69,0:02:30.59,Default,,0,0,0,,Pero ¿cómo planeas buscarla?
+Dialogue: 0,0:02:30.59,0:02:32.72,Default,,0,0,0,,El norte es muy grande.
+Dialogue: 0,0:02:35.60,0:02:37.35,Default,,0,0,0,,Es cierto.
+Dialogue: 0,0:02:37.35,0:02:39.19,Default,,0,0,0,,Ya me las arreglaré.
+Dialogue: 0,0:02:39.19,0:02:40.85,Default,,0,0,0,,¿Tienes alguna pista?
+Dialogue: 0,0:02:42.48,0:02:46.82,Default,,0,0,0,,¿Quieres que te hable sobre los territorios del norte?
+Dialogue: 0,0:02:48.29,0:02:49.34,Default,,0,0,0,,Bueno...
+Dialogue: 0,0:02:49.78,0:02:51.69,Default,,0,0,0,,Este, sí.
+Dialogue: 0,0:02:52.32,0:02:53.08,Default,,0,0,0,,Bien.
+Dialogue: 0,0:02:53.08,0:02:56.07,Default,,0,0,0,,Entonces, presta atención.
+Dialogue: 0,0:02:56.69,0:02:59.67,Default,,0,0,0,,La mayoría de los reinos del norte son pobres,
+Dialogue: 0,0:02:59.67,0:03:02.35,Default,,0,0,0,,pero las Tres Grandes Naciones Mágicas
+Dialogue: 0,0:03:02.35,0:03:04.33,Default,,0,0,0,,prosperaron por su cuenta.
+Dialogue: 0,0:03:04.33,0:03:07.40,Default,,0,0,0,,El Reino de Ranoa se dedica al estudio de la magia.
+Dialogue: 0,0:03:07.40,0:03:10.21,Default,,0,0,0,,El Ducado de Neris produce implementos mágicos.
+Dialogue: 0,0:03:10.80,0:03:14.20,Default,,0,0,0,,El Ducado de Basherant se especializa en investigaciones arcanas.
+Dialogue: 0,0:03:14.20,0:03:16.43,Default,,0,0,0,,Estamos de camino hacia el último.
+Dialogue: 0,0:03:16.85,0:03:22.22,Default,,0,0,0,,Estos reinos formaron una alianza para avanzar en el estudio de la magia.
+Dialogue: 0,0:03:22.65,0:03:23.66,Default,,0,0,0,,¿Lo entendiste?
+Dialogue: 0,0:03:47.45,0:03:49.13,Default,,0,0,0,,Bien, estamos todos.
+Dialogue: 0,0:03:49.13,0:03:51.21,Default,,0,0,0,,Estoy muy cansada.
+Dialogue: 0,0:03:51.21,0:03:52.19,Default,,0,0,0,,Hay que irnos.
+Dialogue: 0,0:03:50.07,0:03:52.62,Default,,0,0,0,,{\an8}El viaje fue agotador.
+Dialogue: 0,0:03:56.35,0:03:57.49,Default,,0,0,0,,Hace frío.
+Dialogue: 0,0:04:01.14,0:04:02.73,Default,,0,0,0,,Disculpe,
+Dialogue: 0,0:04:02.73,0:04:04.47,Default,,0,0,0,,una habitación por un mes, por favor.
+Dialogue: 0,0:04:05.83,0:04:06.69,Default,,0,0,0,,Claro.
+Dialogue: 0,0:04:07.69,0:04:08.57,Default,,0,0,0,,Bienvenido.
+Dialogue: 0,0:04:11.11,0:04:12.06,Default,,0,0,0,,Firma aquí.
+Dialogue: 0,0:04:19.57,0:04:22.66,Default,,0,0,0,,Usa la habitación al fondo del tercer piso.
+Dialogue: 0,0:04:22.66,0:04:23.50,Default,,0,0,0,,En cuanto al pago...
+Dialogue: 0,0:04:47.84,0:04:49.01,Default,,0,0,0,,Eris...
+Dialogue: 0,0:04:51.12,0:04:52.20,Default,,0,0,0,,Basta.
+Dialogue: 0,0:04:52.84,0:04:55.00,Default,,0,0,0,,{\i1}No viajo para aliviar mi depresión.
+Dialogue: 0,0:04:55.64,0:04:57.27,Default,,0,0,0,,{\i1}Debo encontrar a Zenith.
+Dialogue: 0,0:05:05.04,0:05:06.24,Default,,0,0,0,,¡Oh, ahí estás!
+Dialogue: 0,0:05:06.24,0:05:07.48,Default,,0,0,0,,Dicen que pagan bien.
+Dialogue: 0,0:05:07.48,0:05:08.50,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:05:12.92,0:05:14.55,Default,,0,0,0,,Mira, un niño.
+Dialogue: 0,0:05:14.55,0:05:15.68,Default,,0,0,0,,¿Un principiante?
+Dialogue: 0,0:05:17.05,0:05:18.68,Default,,0,0,0,,Seguro vino a jugar.
+Dialogue: 0,0:05:19.45,0:05:20.51,Default,,0,0,0,,¿Y ese?
 Dialogue: 0,0:05:20.88,0:05:22.25,Default,,0,0,0,,¿Qué hace aquí solo?
-Dialogue: 0,0:05:22.25,0:05:24.32,Default,,0,0,0,,Me parece un flojo.
-Dialogue: 0,0:05:27.08,0:05:32.79,Default,,0,0,0,,Disculpe, ¿me ayudaría a\Ndisolver mi grupo oficialmente? {no he traducido ni visto la temporada 1 en español, así que ni idea de cómo poner esto para que sea consistente con otros grupos} {cambialo a lo que quieras, azulita}
-Dialogue: 0,0:05:32.79,0:05:34.61,Default,,0,0,0,,Por supuesto.
-Dialogue: 0,0:05:39.44,0:05:41.22,Default,,0,0,0,,Oye...
+Dialogue: 0,0:05:22.25,0:05:24.32,Default,,0,0,0,,Parece un flojo.
+Dialogue: 0,0:05:27.08,0:05:27.98,Default,,0,0,0,,Disculpa,
+Dialogue: 0,0:05:28.80,0:05:32.79,Default,,0,0,0,,¿puedes disolver mi grupo de aventureros?{no he traducido ni visto la temporada 1 en español, así que ni idea de cómo poner esto para que sea consistente con otros grupos} {cambialo a lo que quieras, azulita}{uwu}
+Dialogue: 0,0:05:32.79,0:05:34.61,Default,,0,0,0,,Sí, claro.
+Dialogue: 0,0:05:39.44,0:05:41.22,Default,,0,0,0,,E-Este...
 Dialogue: 0,0:05:45.14,0:05:46.74,Default,,0,0,0,,Por favor.
-Dialogue: 0,0:05:47.68,0:05:49.34,Default,,0,0,0,,Gracias por su servicio.
-Dialogue: 0,0:05:53.12,0:05:54.97,Default,,0,0,0,,Oye, ¿crees que...?
-Dialogue: 0,0:05:54.97,0:05:57.05,Default,,0,0,0,,¿Acaso el resto de su grupo murió?
-Dialogue: 0,0:05:57.05,0:06:00.41,Default,,0,0,0,,Debe ser duro ser el único sobreviviente.
-Dialogue: 0,0:06:07.94,0:06:09.77,Default,,0,0,0,,Me gustaría hacer este trabajo.
-Dialogue: 0,0:06:09.77,0:06:10.70,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:06:11.38,0:06:13.61,Default,,0,0,0,,¿Y qué hay de tu grupo?
-Dialogue: 0,0:06:13.61,0:06:15.08,Default,,0,0,0,,Lo haré solo.
-Dialogue: 0,0:06:15.08,0:06:15.65,Default,,0,0,0,,¿Qué?
-Dialogue: 0,0:06:16.09,0:06:19.11,Default,,0,0,0,,Pero hacer este trabajo solo sería...
-Dialogue: 0,0:06:17.88,0:06:21.78,Default,,0,0,0,,{\i1\an8}Ya deja de advertirme y dame el trabajo.
-Dialogue: 0,0:06:31.13,0:06:32.41,Default,,0,0,0,,¿Qué hay?
-Dialogue: 0,0:06:32.41,0:06:34.04,Default,,0,0,0,,¿Te estás peleando?
-Dialogue: 0,0:06:35.82,0:06:38.12,Default,,0,0,0,,No lo llamaría una pelea.
-Dialogue: 0,0:06:38.12,0:06:40.46,Default,,0,0,0,,Perdón, pero te escuché.
-Dialogue: 0,0:06:40.81,0:06:44.22,Default,,0,0,0,,Quieres encontrar a tu madre\Nperdida, pero necesitas dinero.
-Dialogue: 0,0:06:44.22,0:06:46.82,Default,,0,0,0,,Por eso estás tratando de tomar un trabajo de alto rango, ¿verdad?
-Dialogue: 0,0:06:46.82,0:06:47.97,Default,,0,0,0,,Bueno...
-Dialogue: 0,0:06:49.39,0:06:51.97,Default,,0,0,0,,No me gusta como te ves.
-Dialogue: 0,0:06:52.37,0:06:55.95,Default,,0,0,0,,No parece que te importe nada.\NNi siquiera morir.
-Dialogue: 0,0:06:56.98,0:07:01.72,Default,,0,0,0,,¿Qué tal esto?\N¿Por qué no lo hacemos juntos?
-Dialogue: 0,0:07:01.72,0:07:02.65,Default,,0,0,0,,¡¿Qué?!
-Dialogue: 0,0:07:03.73,0:07:04.92,Default,,0,0,0,,¿Juntos?
-Dialogue: 0,0:07:08.23,0:07:12.51,Default,,0,0,0,,Acabamos de llegar aquí, y no\Nestamos acostumbrados a muchas cosas.
-Dialogue: 0,0:07:12.51,0:07:16.67,Default,,0,0,0,,Así que, ya que aún estamos orientándonos, trabajemos juntos.
-Dialogue: 0,0:07:17.44,0:07:19.70,Default,,0,0,0,,No, prefiero trabajar solo.
-Dialogue: 0,0:07:22.06,0:07:24.72,Default,,0,0,0,,No podrás hacerlo todo solo.
-Dialogue: 0,0:07:24.72,0:07:27.63,Default,,0,0,0,,Lo que necesitas es depender de alguien más.
-Dialogue: 0,0:07:27.63,0:07:32.01,Default,,0,0,0,,Y la mejor forma de conseguir gente de quién depender es uniéndote a un grupo.
-Dialogue: 0,0:07:32.52,0:07:34.21,Default,,0,0,0,,¿Verdad, todos?
-Dialogue: 0,0:07:35.54,0:07:37.21,Default,,0,0,0,,Sï estás de acuerdo, ¿no, Sara?
+Dialogue: 0,0:05:47.88,0:05:49.34,Default,,0,0,0,,Buen trabajo.{Gracias por su servicio.}
+Dialogue: 0,0:05:53.12,0:05:54.97,Default,,0,0,0,,Oye, ¿crees que...
+Dialogue: 0,0:05:54.97,0:05:57.05,Default,,0,0,0,,... el resto de su grupo murió?
+Dialogue: 0,0:05:57.05,0:05:58.66,Default,,0,0,0,,Pobre.
+Dialogue: 0,0:05:58.66,0:06:00.14,Default,,0,0,0,,Debe ser el único que sobrevivió.
+Dialogue: 0,0:06:08.14,0:06:09.77,Default,,0,0,0,,Este, por favor.
+Dialogue: 0,0:06:10.06,0:06:10.70,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:06:11.44,0:06:13.66,Default,,0,0,0,,¿Y tu grupo?
+Dialogue: 0,0:06:13.66,0:06:15.00,Default,,0,0,0,,Lo haré solo.
+Dialogue: 0,0:06:15.00,0:06:15.65,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:06:16.19,0:06:19.11,Default,,0,0,0,,Pero hacer este trabajo solo sería...
+Dialogue: 0,0:06:18.28,0:06:20.08,Default,,0,0,0,,{\i1\an8}Ya cállate.
+Dialogue: 0,0:06:20.08,0:06:21.78,Default,,0,0,0,,{\i1\an8}Dámelo de una vez.
+Dialogue: 0,0:06:31.33,0:06:32.41,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:06:32.41,0:06:33.75,Default,,0,0,0,,¿Estás discutiendo?
+Dialogue: 0,0:06:35.86,0:06:38.12,Default,,0,0,0,,No era una discusión.
+Dialogue: 0,0:06:38.12,0:06:40.46,Default,,0,0,0,,Bueno, pero escuché todo.
+Dialogue: 0,0:06:40.95,0:06:44.27,Default,,0,0,0,,Quieres encontrar a tu madre, pero necesitas dinero.
+Dialogue: 0,0:06:44.27,0:06:46.82,Default,,0,0,0,,Por eso intentas tomar un trabajo de alto rango, ¿verdad?
+Dialogue: 0,0:06:46.82,0:06:47.97,Default,,0,0,0,,No...
+Dialogue: 0,0:06:49.48,0:06:51.97,Default,,0,0,0,,Pero tu mirada es un problema.
+Dialogue: 0,0:06:52.47,0:06:54.15,Default,,0,0,0,,Parece que no te importa nada,
+Dialogue: 0,0:06:54.15,0:06:55.95,Default,,0,0,0,,ni siquiera morir.
+Dialogue: 0,0:06:56.98,0:06:58.78,Default,,0,0,0,,¿Qué tal esto?
+Dialogue: 0,0:06:58.78,0:07:01.72,Default,,0,0,0,,¿Por qué no lo hacemos juntos?
+Dialogue: 0,0:07:01.72,0:07:02.65,Default,,0,0,0,,¡¿Eh?!
+Dialogue: 0,0:07:03.78,0:07:04.92,Default,,0,0,0,,¿Juntos?
+Dialogue: 0,0:07:08.37,0:07:10.41,Default,,0,0,0,,También acabamos de llegar.
+Dialogue: 0,0:07:10.41,0:07:12.51,Default,,0,0,0,,Hay mucho que no sabemos.
+Dialogue: 0,0:07:12.51,0:07:14.93,Default,,0,0,0,,Así que, como aún nos estamos orientando,
+Dialogue: 0,0:07:14.93,0:07:16.67,Default,,0,0,0,,podemos trabajar juntos.{Así que, ya que aún estamos orientándonos, trabajemos juntos.}
+Dialogue: 0,0:07:17.51,0:07:19.70,Default,,0,0,0,,No, prefiero estar solo.
+Dialogue: 0,0:07:22.16,0:07:24.72,Default,,0,0,0,,No puedes hacer todo solo.
+Dialogue: 0,0:07:24.72,0:07:27.63,Default,,0,0,0,,Necesitas depender de alguien más.
+Dialogue: 0,0:07:27.63,0:07:28.89,Default,,0,0,0,,Y la mejor forma
+Dialogue: 0,0:07:28.89,0:07:32.01,Default,,0,0,0,,es unirte a un grupo en el que puedas confiar.{de conseguir gente de quién depender es uniéndote a un grupo.}
+Dialogue: 0,0:07:32.52,0:07:34.15,Default,,0,0,0,,¿No lo creen?
+Dialogue: 0,0:07:35.73,0:07:37.21,Default,,0,0,0,,Sara, ¿estás de acuerdo?
 Dialogue: 0,0:07:37.21,0:07:38.57,Default,,0,0,0,,Sí, sí.
-Dialogue: 0,0:07:39.68,0:07:44.86,Default,,0,0,0,,{\i1}Puede decirlo bonito,\Npero sé que solo me tiene lástima.
-Dialogue: 0,0:07:44.86,0:07:49.47,Default,,0,0,0,,Te ves joven,\Npero apuesto a que sabes lo que haces.
-Dialogue: 0,0:07:49.47,0:07:51.03,Default,,0,0,0,,¿Qué sabes hacer?
-Dialogue: 0,0:07:51.03,0:07:56.21,Default,,0,0,0,,Como puedes ver, soy un mago, así que me especializo en apoyar a los de adelante.
-Dialogue: 0,0:07:56.21,0:07:57.50,Default,,0,0,0,,Perfecto.
-Dialogue: 0,0:07:57.50,0:08:01.99,Default,,0,0,0,,Justo estábamos hablando de que nuestro grupo necesita a otra persona de apoyo.
-Dialogue: 0,0:08:04.80,0:08:06.98,Default,,0,0,0,,Muy bien.
-Dialogue: 0,0:08:06.98,0:08:08.55,Default,,0,0,0,,Eso es todo.
-Dialogue: 0,0:08:08.55,0:08:13.89,Default,,0,0,0,,Ahora, hay que prepararnos y reunirnos en las puertas del norte por la mañana.
-Dialogue: 0,0:08:13.89,0:08:17.52,Default,,0,0,0,,Podemos hacer la formación en el camino.
-Dialogue: 0,0:08:18.59,0:08:19.67,Default,,0,0,0,,Entendido.
-Dialogue: 0,0:08:20.65,0:08:24.57,Default,,0,0,0,,¿Sigues molesta?\NQué niña que eres.
-Dialogue: 0,0:08:24.57,0:08:26.47,Default,,0,0,0,,¡Ya cállate!
-Dialogue: 0,0:08:28.91,0:08:30.73,Default,,0,0,0,,{\i1}Se parecen demasiado.
-Dialogue: 0,0:08:39.54,0:08:40.45,Default,,0,0,0,,Vamos.
-Dialogue: 0,0:08:40.45,0:08:41.33,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:07:39.68,0:07:41.13,Default,,0,0,0,,{\i1}Lo entiendo.
+Dialogue: 0,0:07:41.13,0:07:43.16,Default,,0,0,0,,{\i1}Puede adornarlo como quiera,
+Dialogue: 0,0:07:43.16,0:07:44.86,Default,,0,0,0,,{\i1}al final solo es lástima.
+Dialogue: 0,0:07:44.86,0:07:47.37,Default,,0,0,0,,Te ves joven,
+Dialogue: 0,0:07:47.37,0:07:49.62,Default,,0,0,0,,pero parece que tienes experiencia.
+Dialogue: 0,0:07:49.62,0:07:51.12,Default,,0,0,0,,¿Qué sabes hacer?
+Dialogue: 0,0:07:51.12,0:07:53.62,Default,,0,0,0,,Como puedes ver, soy un mago,
+Dialogue: 0,0:07:53.62,0:07:56.13,Default,,0,0,0,,brindo apoyo desde la retaguardia.
+Dialogue: 0,0:07:56.13,0:07:57.50,Default,,0,0,0,,Perfecto.
+Dialogue: 0,0:07:57.50,0:08:01.99,Default,,0,0,0,,Queríamos a otro que apoye desde la retaguardia.
+Dialogue: 0,0:08:04.80,0:08:07.01,Default,,0,0,0,,Entonces, será un placer.
+Dialogue: 0,0:08:07.01,0:08:08.55,Default,,0,0,0,,Eso es todo.
+Dialogue: 0,0:08:08.55,0:08:10.77,Default,,0,0,0,,Ahora, hagamos los preparativos.
+Dialogue: 0,0:08:10.77,0:08:13.89,Default,,0,0,0,,¿Nos vemos por la mañana en la puerta norte?
+Dialogue: 0,0:08:13.89,0:08:17.52,Default,,0,0,0,,Puedo explicarte la formación en el camino.
+Dialogue: 0,0:08:18.67,0:08:19.65,Default,,0,0,0,,Bien.
+Dialogue: 0,0:08:20.65,0:08:22.97,Default,,0,0,0,,¿Sigues molesta?
+Dialogue: 0,0:08:22.97,0:08:24.57,Default,,0,0,0,,Qué infantil eres.
+Dialogue: 0,0:08:24.57,0:08:25.95,Default,,0,0,0,,¡Cállate!
+Dialogue: 0,0:08:29.08,0:08:30.73,Default,,0,0,0,,{\i1}Se parecen demasiado.
+Dialogue: 0,0:08:39.74,0:08:40.45,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:08:40.45,0:08:41.00,Default,,0,0,0,,¡Sí!
 Dialogue: 0,0:08:40.71,0:08:41.33,Default,,0,0,0,,{\an8}¡Sí!
-Dialogue: 0,0:08:41.33,0:08:43.59,Default,,0,0,0,,Este trabajito pagará bien.
-Dialogue: 0,0:08:44.06,0:08:47.05,Default,,0,0,0,,Terminémoslo rápido y vayamos por unos tragos.
-Dialogue: 0,0:08:47.05,0:08:48.84,Default,,0,0,0,,¿Sigues con ganas?
-Dialogue: 0,0:08:48.84,0:08:51.25,Default,,0,0,0,,Me conseguí un buen vinito de Asura.
-Dialogue: 0,0:08:51.25,0:08:53.49,Default,,0,0,0,,¿A quién le importa? Solo no la cagues.
-Dialogue: 0,0:08:53.49,0:08:59.06,Default,,0,0,0,,¡Claro que no! Estoy a la altura\Nde los Siete Grandes Poderes.
-Dialogue: 0,0:08:58.42,0:08:59.93,Default,,0,0,0,,{\an8}Sí, claro.
-Dialogue: 0,0:09:00.67,0:09:02.61,Default,,0,0,0,,Vaya, llegaste temprano.
-Dialogue: 0,0:09:03.06,0:09:05.93,Default,,0,0,0,,Después de lo de ayer,\Npensaba que llegarías tarde.
-Dialogue: 0,0:09:06.49,0:09:08.36,Default,,0,0,0,,Es que me desperté temprano.
-Dialogue: 0,0:09:09.00,0:09:10.35,Default,,0,0,0,,¿Ah, sí?
-Dialogue: 0,0:09:12.29,0:09:14.87,Default,,0,0,0,,Rudeus Greyrat, mago.
-Dialogue: 0,0:09:15.24,0:09:17.40,Default,,0,0,0,,Puedo lanzar hechizos sin conjurarlos.
-Dialogue: 0,0:09:20.12,0:09:22.09,Default,,0,0,0,,Es bueno tenerte a bordo.
-Dialogue: 0,0:09:45.29,0:09:50.99,Default,,0,0,0,,Soy Suzanne, sublíder de Counter Arrow y peleo en primera fila.
-Dialogue: 0,0:09:51.39,0:09:54.95,Default,,0,0,0,,¿Sublíder? \N¿No estás a cargo?
-Dialogue: 0,0:09:54.95,0:09:58.95,Default,,0,0,0,,Hago que las órdenes se cumplan\N, pero yo no soy la que las da.
-Dialogue: 0,0:10:00.14,0:10:05.00,Default,,0,0,0,,Hola, Yo soy Timothy. Me especializo en ataques mágicos de larga distancia.
-Dialogue: 0,0:10:05.00,0:10:08.45,Default,,0,0,0,,Soy el líder del grupo, técnicamente.
-Dialogue: 0,0:10:08.45,0:10:09.30,Default,,0,0,0,,Un placer.
-Dialogue: 0,0:10:09.30,0:10:12.23,Default,,0,0,0,,Yo soy Mimir, el curandero. {meh?}
-Dialogue: 0,0:10:12.23,0:10:15.80,Default,,0,0,0,,Soy Patrice.\NYo peleo junto a Suzanne en el frente.
-Dialogue: 0,0:10:16.36,0:10:18.14,Default,,0,0,0,,Bien, te toca.
-Dialogue: 0,0:10:18.14,0:10:21.36,Default,,0,0,0,,Sara. Uso mi arco para\Ninterceptar en medio rango.
-Dialogue: 0,0:10:22.27,0:10:26.10,Default,,0,0,0,,Y para que te quede claro, no te quiero aquí.
-Dialogue: 0,0:10:26.10,0:10:28.82,Default,,0,0,0,,Solo sigo órdenes de Suzanne.
-Dialogue: 0,0:10:28.82,0:10:32.36,Default,,0,0,0,,Si haces algo mal y alguien muere,\N¡haré que te arrepientas!
-Dialogue: 0,0:10:33.24,0:10:34.36,Default,,0,0,0,,Está bien.
-Dialogue: 0,0:10:34.70,0:10:36.29,Default,,0,0,0,,Tranquilízate, Sara.
-Dialogue: 0,0:10:36.29,0:10:37.22,Default,,0,0,0,,Pero...
-Dialogue: 0,0:10:37.22,0:10:42.50,Default,,0,0,0,,Puede que nos separemos y te agrupes con otros aventureros algún día.
-Dialogue: 0,0:10:43.73,0:10:46.67,Default,,0,0,0,,¿Qué? ¿Nos vamos a separar?
-Dialogue: 0,0:10:46.67,0:10:48.46,Default,,0,0,0,,Puede que pase.
-Dialogue: 0,0:10:48.81,0:10:54.34,Default,,0,0,0,,Puedes elegir en Asura,\Npero no en donde estamos.
-Dialogue: 0,0:10:54.79,0:10:58.21,Default,,0,0,0,,Así que, mejor ve aprendiendo a trabajar con toda clase de personas.
-Dialogue: 0,0:10:59.47,0:11:03.25,Default,,0,0,0,,{\i1}¿Me están usando para enseñarle algo a ella?
-Dialogue: 0,0:11:03.25,0:11:04.23,Default,,0,0,0,,{\i1}Ya qué.
-Dialogue: 0,0:11:20.04,0:11:24.66,Default,,0,0,0,,Los Luster Grizzlies que\Nnos toca cazar tienen una debilidad.
-Dialogue: 0,0:11:24.66,0:11:28.15,Default,,0,0,0,,No pueden ver en la oscuridad, ¿no?
-Dialogue: 0,0:11:30.56,0:11:31.78,Default,,0,0,0,,Exacto.
-Dialogue: 0,0:11:33.24,0:11:36.72,Default,,0,0,0,,Revisemos nuestra estrategia.
-Dialogue: 0,0:11:38.37,0:11:43.02,Default,,0,0,0,,Ni bien veamos al enemigo,\NRudeus los retrasará desde atrás. {a distancia}
-Dialogue: 0,0:11:43.02,0:11:44.83,Default,,0,0,0,,Y tú, Timothy...
-Dialogue: 0,0:11:44.83,0:11:47.67,Default,,0,0,0,,Reduciré sus números con ataques mágicos.
-Dialogue: 0,0:11:48.10,0:11:53.24,Default,,0,0,0,,Se acercarán rápido,\Npero Patrice y yo los detendremos.
+Dialogue: 0,0:08:41.33,0:08:43.59,Default,,0,0,0,,Este trabajo pagará bien.
+Dialogue: 0,0:08:44.06,0:08:44.79,Default,,0,0,0,,Sí.
+Dialogue: 0,0:08:44.79,0:08:47.05,Default,,0,0,0,,Terminemos rápido para beber unos tragos.
+Dialogue: 0,0:08:47.05,0:08:48.84,Default,,0,0,0,,¿Aún quieres más?
+Dialogue: 0,0:08:48.84,0:08:51.34,Default,,0,0,0,,Ha llegado un buen vino de Asura.
+Dialogue: 0,0:08:51.34,0:08:52.60,Default,,0,0,0,,A quién le importa.
+Dialogue: 0,0:08:52.60,0:08:53.49,Default,,0,0,0,,Solo no la cagues.
+Dialogue: 0,0:08:53.49,0:08:55.13,Default,,0,0,0,,¡Claro que no!
+Dialogue: 0,0:08:55.13,0:08:59.06,Default,,0,0,0,,Estoy al mismo nivel de los Siete Grandes Poderes.
+Dialogue: 0,0:08:58.42,0:08:59.93,Default,,0,0,0,,{\an8}Sí, te creo.
+Dialogue: 0,0:09:00.77,0:09:02.61,Default,,0,0,0,,Vaya, qué puntual.
+Dialogue: 0,0:09:03.19,0:09:04.37,Default,,0,0,0,,Después de lo de ayer,
+Dialogue: 0,0:09:04.37,0:09:05.93,Default,,0,0,0,,pensé que llegarías tarde.
+Dialogue: 0,0:09:06.59,0:09:08.36,Default,,0,0,0,,Me desperté temprano.
+Dialogue: 0,0:09:09.12,0:09:10.35,Default,,0,0,0,,Eh...
+Dialogue: 0,0:09:12.37,0:09:14.87,Default,,0,0,0,,Rudeus Greyrat, soy mago.
+Dialogue: 0,0:09:15.39,0:09:17.13,Default,,0,0,0,,Puedo conjurar en silencio.
+Dialogue: 0,0:09:20.24,0:09:21.89,Default,,0,0,0,,Bueno, es un placer.
+Dialogue: 0,0:09:45.45,0:09:47.11,Default,,0,0,0,,Soy Suzanne,
+Dialogue: 0,0:09:47.11,0:09:49.15,Default,,0,0,0,,sublíder de Counter Arrow.
+Dialogue: 0,0:09:49.15,0:09:50.99,Default,,0,0,0,,Peleo en la línea frontal.
+Dialogue: 0,0:09:51.50,0:09:52.62,Default,,0,0,0,,¿Sublíder?
+Dialogue: 0,0:09:53.24,0:09:54.95,Default,,0,0,0,,¿No eres la líder?
+Dialogue: 0,0:09:54.95,0:09:57.71,Default,,0,0,0,,Hago que las órdenes se cumplan,
+Dialogue: 0,0:09:57.71,0:09:58.95,Default,,0,0,0,,pero no soy la líder.
+Dialogue: 0,0:10:00.14,0:10:01.84,Default,,0,0,0,,Hola, yo soy Timothy.
+Dialogue: 0,0:10:02.21,0:10:04.84,Default,,0,0,0,,Me especializo en ataques mágicos a larga distancia.
+Dialogue: 0,0:10:04.84,0:10:08.45,Default,,0,0,0,,Soy el líder oficial del grupo.
+Dialogue: 0,0:10:08.45,0:10:09.30,Default,,0,0,0,,Hola.
+Dialogue: 0,0:10:09.30,0:10:12.31,Default,,0,0,0,,Yo soy Mimir, un mago sanador. {meh?}
+Dialogue: 0,0:10:12.31,0:10:13.43,Default,,0,0,0,,Soy Patrice,
+Dialogue: 0,0:10:13.43,0:10:15.80,Default,,0,0,0,,peleo junto a Suzanne en el frente.
+Dialogue: 0,0:10:16.52,0:10:18.14,Default,,0,0,0,,Oye, te toca.
+Dialogue: 0,0:10:18.14,0:10:19.65,Default,,0,0,0,,Soy Sara.
+Dialogue: 0,0:10:19.65,0:10:21.40,Default,,0,0,0,,Arquera de línea media.{Sara. Uso mi arco para\Ninterceptar en medio rango.}
+Dialogue: 0,0:10:22.65,0:10:23.61,Default,,0,0,0,,Y para que te quede claro,
+Dialogue: 0,0:10:23.61,0:10:26.10,Default,,0,0,0,,no estaba de acuerdo con esto.
+Dialogue: 0,0:10:26.10,0:10:28.86,Default,,0,0,0,,Solo sigo las órdenes de Suzanne.
+Dialogue: 0,0:10:28.86,0:10:31.12,Default,,0,0,0,,Si alguien muere por tu culpa,
+Dialogue: 0,0:10:31.12,0:10:32.36,Default,,0,0,0,,¡no te perdonaré!
+Dialogue: 0,0:10:33.45,0:10:34.36,Default,,0,0,0,,Sí.
+Dialogue: 0,0:10:34.85,0:10:36.25,Default,,0,0,0,,Sara, basta.
+Dialogue: 0,0:10:36.25,0:10:37.22,Default,,0,0,0,,Pero...
+Dialogue: 0,0:10:37.22,0:10:40.44,Default,,0,0,0,,Tal vez algún día nos separemos
+Dialogue: 0,0:10:40.44,0:10:42.50,Default,,0,0,0,,y tengas que unirte a otros aventureros.
+Dialogue: 0,0:10:43.84,0:10:45.21,Default,,0,0,0,,¿Qué quieres decir?
+Dialogue: 0,0:10:45.21,0:10:46.78,Default,,0,0,0,,¿Vamos a separarnos?
+Dialogue: 0,0:10:46.78,0:10:48.46,Default,,0,0,0,,Es posible.
+Dialogue: 0,0:10:48.91,0:10:51.97,Default,,0,0,0,,En Asura podías hacer lo que querías.
+Dialogue: 0,0:10:51.97,0:10:54.34,Default,,0,0,0,,pero no en este lugar.
+Dialogue: 0,0:10:54.89,0:10:58.21,Default,,0,0,0,,Es hora de que aprendas a trabajar con otras personas.
+Dialogue: 0,0:10:59.47,0:11:03.25,Default,,0,0,0,,{\i1}¿Me están usando para darle una lección?
+Dialogue: 0,0:11:03.25,0:11:04.23,Default,,0,0,0,,{\i1}No importa.
+Dialogue: 0,0:11:20.04,0:11:23.04,Default,,0,0,0,,Los Luster Grizzlies que nos encargaron
+Dialogue: 0,0:11:23.04,0:11:24.66,Default,,0,0,0,,tienen una debilidad.
+Dialogue: 0,0:11:24.66,0:11:28.09,Default,,0,0,0,,No pueden ver en la oscuridad, ¿cierto?
+Dialogue: 0,0:11:30.72,0:11:31.78,Default,,0,0,0,,Exacto.
+Dialogue: 0,0:11:33.45,0:11:36.72,Default,,0,0,0,,Bien, repasemos otra vez nuestro plan.
+Dialogue: 0,0:11:38.37,0:11:40.97,Default,,0,0,0,,En el momento que veamos al enemigo,
+Dialogue: 0,0:11:41.38,0:11:43.02,Default,,0,0,0,,Rudeus los atrasará.
+Dialogue: 0,0:11:43.02,0:11:44.83,Default,,0,0,0,,Y entonces, Timothy...
+Dialogue: 0,0:11:44.83,0:11:47.44,Default,,0,0,0,,Usaré ataques mágicos para reducir sus números.
+Dialogue: 0,0:11:48.32,0:11:51.07,Default,,0,0,0,,Algunos cuantos se acercarán,
+Dialogue: 0,0:11:51.07,0:11:53.24,Default,,0,0,0,,pero Patrice y yo los detendremos.
 Dialogue: 0,0:11:53.24,0:11:54.44,Default,,0,0,0,,Y Sara...
-Dialogue: 0,0:11:54.44,0:11:56.15,Default,,0,0,0,,Te apoyaré.
-Dialogue: 0,0:11:56.15,0:11:58.70,Default,,0,0,0,,¿Y si alguien se lastima peleando de cerca?
-Dialogue: 0,0:11:58.70,0:12:00.62,Default,,0,0,0,,Yo lo sanaré.
-Dialogue: 0,0:12:00.62,0:12:02.90,Default,,0,0,0,,Ese es el plan básico.
-Dialogue: 0,0:12:02.90,0:12:04.76,Default,,0,0,0,,¿Entendiste, Rudeus?
-Dialogue: 0,0:12:04.76,0:12:05.62,Default,,0,0,0,,Disculpe...
-Dialogue: 0,0:12:06.01,0:12:06.99,Default,,0,0,0,,¿Sí?
-Dialogue: 0,0:12:06.99,0:12:12.22,Default,,0,0,0,,No creo que tenga mucho que hacer.\N¿Debería de cambiar de posición?
-Dialogue: 0,0:12:12.22,0:12:15.01,Default,,0,0,0,,Pero no sabes como se moverán.
-Dialogue: 0,0:12:15.01,0:12:17.89,Default,,0,0,0,,Luego, después que ayude a retrasarlos, podría ayudarlos a reducirlos.
-Dialogue: 0,0:12:17.89,0:12:22.36,Default,,0,0,0,,Todos saben que tienes que\Nconservar maná por si la pelea se alarga.
-Dialogue: 0,0:12:22.36,0:12:23.77,Default,,0,0,0,,¡Solo retrasalos! {zagon referencia}
-Dialogue: 0,0:12:23.77,0:12:24.89,Default,,0,0,0,,Y...
-Dialogue: 0,0:12:25.41,0:12:28.10,Default,,0,0,0,,¿Y si pelease en primera fila?
-Dialogue: 0,0:12:28.10,0:12:30.19,Default,,0,0,0,,¿Acaso quieres que te dispare{n} en la espalda? {no estoy seguro si ella quiere dispararle a *el* o que le van a disparar de casualidad}
-Dialogue: 0,0:12:31.65,0:12:35.69,Default,,0,0,0,,No eres parte del grupo,\Nsolo haz lo que te digan.
-Dialogue: 0,0:12:36.58,0:12:37.91,Default,,0,0,0,,Está bien.
-Dialogue: 0,0:12:37.91,0:12:40.16,Default,,0,0,0,,{\i1}En eso también se parece.
-Dialogue: 0,0:12:40.47,0:12:44.73,Default,,0,0,0,,Sara, no malogres el ánimo antes del trabajo.
-Dialogue: 0,0:12:46.65,0:12:47.67,Default,,0,0,0,,Perdón.
-Dialogue: 0,0:13:04.88,0:13:06.60,Default,,0,0,0,,Discúlpanos.
-Dialogue: 0,0:13:06.60,0:13:07.96,Default,,0,0,0,,¿Por qué?
-Dialogue: 0,0:13:07.96,0:13:13.02,Default,,0,0,0,,Por Sara. No es una mala chica,\Nsolo es algo engreída.
-Dialogue: 0,0:13:15.55,0:13:17.88,Default,,0,0,0,,Debes de ser un gran mago.
-Dialogue: 0,0:13:17.88,0:13:22.57,Default,,0,0,0,,La última vez que vi a alguien lanzar un hechizo sin conjurar fue a un profesor en mi escuela.
-Dialogue: 0,0:13:24.01,0:13:29.73,Default,,0,0,0,,Estas habilidades no traerán\Nde vuelta a mis seres queridos.
-Dialogue: 0,0:13:42.19,0:13:43.67,Default,,0,0,0,,¿Y bien, Sara?
-Dialogue: 0,0:13:45.18,0:13:47.35,Default,,0,0,0,,Conté 20. Todos duermiendo.
-Dialogue: 0,0:13:48.50,0:13:50.35,Default,,0,0,0,,¿Crees que podremos con ellos?
-Dialogue: 0,0:13:52.18,0:13:54.61,Default,,0,0,0,,¡Por supuesto que sí!
-Dialogue: 0,0:13:59.43,0:14:01.95,Default,,0,0,0,,Bien, empecemos.
-Dialogue: 0,0:14:03.78,0:14:07.08,Default,,0,0,0,,Que la protección del fuego\Nesté en el lugar que buscas.
-Dialogue: 0,0:14:07.08,0:14:10.23,Default,,0,0,0,,Invoco aquí y ahora el fuerte calor de una antorcha. {cr}
-Dialogue: 0,0:14:10.23,0:14:11.36,Default,,0,0,0,,¡Exa-Flame!
-Dialogue: 0,0:14:21.09,0:14:24.40,Default,,0,0,0,,Que la protección del fuego\Nesté en el lugar que buscas.
-Dialogue: 0,0:14:24.40,0:14:27.43,Default,,0,0,0,,Invoco aquí y ahora el fuerte calor de una antorcha.
-Dialogue: 0,0:14:27.72,0:14:28.76,Default,,0,0,0,,¡Exa-Flame!
-Dialogue: 0,0:14:36.07,0:14:39.41,Default,,0,0,0,,{\an8}Que la protección del fuego\Nesté en el lugar que buscas.
-Dialogue: 0,0:14:37.82,0:14:42.11,Default,,0,0,0,,Sencillo. No tendremos\Nque pelear cuerpo a cuerpo.
-Dialogue: 0,0:14:39.41,0:14:42.50,Default,,0,0,0,,{\an8}Invoco aquí y ahora el fuerte calor de una antorcha.
-Dialogue: 0,0:14:42.50,0:14:43.32,Default,,0,0,0,,{\an8}¡Exa-Flame!
-Dialogue: 0,0:14:49.87,0:14:52.83,Default,,0,0,0,,Que la protección del fuego\Nesté en el lugar que buscas.
-Dialogue: 0,0:14:52.83,0:14:55.79,Default,,0,0,0,,Invoco aquí y ahora el fuerte calor de una antorcha.
-Dialogue: 0,0:14:55.79,0:14:57.32,Default,,0,0,0,,¡Exa-Flame!
-Dialogue: 0,0:15:01.94,0:15:05.34,Default,,0,0,0,,Que la protección del fuego\Nesté en el lugar que buscas.
-Dialogue: 0,0:15:05.34,0:15:08.51,Default,,0,0,0,,Invoco aquí y ahora el fuerte calor de una antorcha.
-Dialogue: 0,0:15:08.51,0:15:09.75,Default,,0,0,0,,¡Exa-Flame!
-Dialogue: 0,0:15:12.27,0:15:14.48,Default,,0,0,0,,¡No puede ser!\N¡¿Osos negros?!
+Dialogue: 0,0:11:54.82,0:11:56.15,Default,,0,0,0,,Los cubro.
+Dialogue: 0,0:11:56.15,0:11:58.70,Default,,0,0,0,,Si alguien de la línea del frente es herido...
+Dialogue: 0,0:11:58.70,0:12:00.70,Default,,0,0,0,,Yo lo sanaré.
+Dialogue: 0,0:12:00.70,0:12:02.25,Default,,0,0,0,,Ese es el plan.
+Dialogue: 0,0:12:03.11,0:12:04.38,Default,,0,0,0,,¿Entendiste, Rudeus?
+Dialogue: 0,0:12:05.00,0:12:05.62,Default,,0,0,0,,Disculpa...
+Dialogue: 0,0:12:06.13,0:12:07.17,Default,,0,0,0,,¿Sí?
+Dialogue: 0,0:12:07.17,0:12:09.13,Default,,0,0,0,,Es sobre mi rol.
+Dialogue: 0,0:12:09.13,0:12:11.02,Default,,0,0,0,,No tengo mucho que hacer,
+Dialogue: 0,0:12:11.02,0:12:12.26,Default,,0,0,0,,también puedo cubrirlos.
+Dialogue: 0,0:12:12.26,0:12:15.01,Default,,0,0,0,,Pero aún no sabes cómo nos movemos.
+Dialogue: 0,0:12:15.01,0:12:16.14,Default,,0,0,0,,Entonces, 
+Dialogue: 0,0:12:16.14,0:12:18.05,Default,,0,0,0,,luego de atrasarlos, puedo ayudar a...
+Dialogue: 0,0:12:18.05,0:12:20.14,Default,,0,0,0,,Se supone que durante las batallas prolongadas,
+Dialogue: 0,0:12:20.14,0:12:22.36,Default,,0,0,0,,los magos deben cuidar sus reservas maná.
+Dialogue: 0,0:12:22.36,0:12:23.87,Default,,0,0,0,,Solo atrásalos. {zagon referencia}{funa}
+Dialogue: 0,0:12:23.87,0:12:24.89,Default,,0,0,0,,Eh...
+Dialogue: 0,0:12:25.41,0:12:28.10,Default,,0,0,0,,¿Y si también peleo al frente...?
+Dialogue: 0,0:12:28.10,0:12:30.19,Default,,0,0,0,,¿Quieres que te dispare por la espalda?
+Dialogue: 0,0:12:31.69,0:12:34.20,Default,,0,0,0,,No eres parte del grupo,
+Dialogue: 0,0:12:34.20,0:12:35.69,Default,,0,0,0,,solo haz lo que te digan.
+Dialogue: 0,0:12:36.70,0:12:37.45,Default,,0,0,0,,Sí.
+Dialogue: 0,0:12:37.95,0:12:40.16,Default,,0,0,0,,{\i1}En eso también se parece.
+Dialogue: 0,0:12:40.62,0:12:44.50,Default,,0,0,0,,Sara, no bajes los ánimos antes de iniciar el trabajo.
+Dialogue: 0,0:12:46.79,0:12:47.67,Default,,0,0,0,,Perdón.
+Dialogue: 0,0:13:04.99,0:13:06.70,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:13:06.70,0:13:07.96,Default,,0,0,0,,¿Por qué?
+Dialogue: 0,0:13:07.96,0:13:09.75,Default,,0,0,0,,Por Sara. 
+Dialogue: 0,0:13:09.75,0:13:11.21,Default,,0,0,0,,No es una mala chica,
+Dialogue: 0,0:13:11.21,0:13:13.02,Default,,0,0,0,,solo se confía demasiado.
+Dialogue: 0,0:13:15.57,0:13:17.95,Default,,0,0,0,,Tú debes ser igual.
+Dialogue: 0,0:13:17.95,0:13:20.20,Default,,0,0,0,,No conocía a nadie que conjurara en silencio
+Dialogue: 0,0:13:20.20,0:13:22.57,Default,,0,0,0,,desde mi profesor en la universidad.
+Dialogue: 0,0:13:24.20,0:13:27.00,Default,,0,0,0,,Aunque pueda hacerlo,
+Dialogue: 0,0:13:27.00,0:13:29.73,Default,,0,0,0,,no traerá de vuelta a mis seres queridos.
+Dialogue: 0,0:13:42.35,0:13:43.60,Default,,0,0,0,,Sara, ¿qué ves?
+Dialogue: 0,0:13:45.34,0:13:47.35,Default,,0,0,0,,Un grupo de veinte durmiendo.
+Dialogue: 0,0:13:48.60,0:13:50.35,Default,,0,0,0,,¿Podremos con ellos?
+Dialogue: 0,0:13:52.23,0:13:54.61,Default,,0,0,0,,Estaremos bien, ¿verdad?
+Dialogue: 0,0:13:59.57,0:14:01.95,Default,,0,0,0,,Entonces, comencemos.
+Dialogue: 0,0:14:03.94,0:14:07.08,Default,,0,0,0,,Que las bastas llamas converjan ante tu presencia.
+Dialogue: 0,0:14:07.08,0:14:08.46,Default,,0,0,0,,Oh fuego abrazador, 
+Dialogue: 0,0:14:08.46,0:14:10.23,Default,,0,0,0,,ofrécenos un obsequio ardiente.
+Dialogue: 0,0:14:10.23,0:14:11.17,Default,,0,0,0,,Exa-Flame.
+Dialogue: 0,0:14:21.09,0:14:22.72,Default,,0,0,0,,Que las bastas llamas 
+Dialogue: 0,0:14:22.72,0:14:24.18,Default,,0,0,0,,converjan ante tu presencia.
+Dialogue: 0,0:14:24.64,0:14:25.77,Default,,0,0,0,,Oh fuego abrazador,
+Dialogue: 0,0:14:25.77,0:14:27.43,Default,,0,0,0,,ofrécenos un obsequio ardiente.
+Dialogue: 0,0:14:27.89,0:14:28.44,Default,,0,0,0,,Exa-Flame.
+Dialogue: 0,0:14:36.15,0:14:37.82,Default,,0,0,0,,{\an8}Que las bastas llamas 
+Dialogue: 0,0:14:37.82,0:14:39.41,Default,,0,0,0,,{\an8}converjan ante tu presencia.
+Dialogue: 0,0:14:37.82,0:14:39.41,Default,,0,0,0,,Es fácil.
+Dialogue: 0,0:14:39.41,0:14:41.82,Default,,0,0,0,,No tendremos que pelear cuerpo a cuerpo.
+Dialogue: 0,0:14:39.41,0:14:42.58,Default,,0,0,0,,{\an8}Oh fuego abrazador, ofrécenos un obsequio ardiente.
+Dialogue: 0,0:14:42.58,0:14:43.32,Default,,0,0,0,,{\an8}Exa-Flame.
+Dialogue: 0,0:14:49.87,0:14:52.83,Default,,0,0,0,,Que las bastas llamas converjan ante tu presencia.
+Dialogue: 0,0:14:52.83,0:14:55.79,Default,,0,0,0,,Oh fuego abrazador, ofrécenos un obsequio ardiente.
+Dialogue: 0,0:14:56.32,0:14:57.00,Default,,0,0,0,,Exa-Flame.
+Dialogue: 0,0:15:01.94,0:15:05.34,Default,,0,0,0,,Que las bastas llamas converjan ante tu presencia.
+Dialogue: 0,0:15:05.34,0:15:08.51,Default,,0,0,0,,Oh fuego abrazador, ofrécenos un obsequio ardiente.
+Dialogue: 0,0:15:08.51,0:15:09.71,Default,,0,0,0,,Exa-Flame.
+Dialogue: 0,0:15:12.27,0:15:13.23,Default,,0,0,0,,¡No puede ser!
+Dialogue: 0,0:15:13.23,0:15:14.48,Default,,0,0,0,,¡¿Osos negros?!
 Dialogue: 0,0:15:18.11,0:15:19.02,Default,,0,0,0,,Es lodo.
-Dialogue: 0,0:15:19.02,0:15:20.70,Default,,0,0,0,,Están cubiertos de lodo.
-Dialogue: 0,0:15:21.80,0:15:22.88,Default,,0,0,0,,¡Timothy!
-Dialogue: 0,0:15:23.75,0:15:25.31,Default,,0,0,0,,¡Retirada, retirada!
+Dialogue: 0,0:15:19.02,0:15:20.41,Default,,0,0,0,,Están cubiertos de lodo.
+Dialogue: 0,0:15:21.80,0:15:22.66,Default,,0,0,0,,¡Timothy!
+Dialogue: 0,0:15:23.83,0:15:25.20,Default,,0,0,0,,¡Retirada, retirada!
 Dialogue: 0,0:15:30.61,0:15:32.83,Default,,0,0,0,,{\i1}Ya es tarde, nos atraparon.
-Dialogue: 0,0:15:33.82,0:15:35.33,Default,,0,0,0,,{\i1}¿Ahora qué?
+Dialogue: 0,0:15:33.82,0:15:35.33,Default,,0,0,0,,{\i1}¿Qué hago?
 Dialogue: 0,0:15:36.99,0:15:37.94,Default,,0,0,0,,{\i1}No.
-Dialogue: 0,0:15:39.16,0:15:41.59,Default,,0,0,0,,{\i1}Olvídalo. Me cansé.
-Dialogue: 0,0:15:42.31,0:15:44.56,Default,,0,0,0,,{\i1}Volveré a quedarme sin nada otra vez.
-Dialogue: 0,0:15:46.26,0:15:49.14,Default,,0,0,0,,¡Huyan, todos!\N¡Yo me quedaré como distracción!
-Dialogue: 0,0:15:49.14,0:15:51.10,Default,,0,0,0,,¡No! ¡Yo también me quedo!
-Dialogue: 0,0:15:51.10,0:15:52.93,Default,,0,0,0,,¡No podrás detenerlos!
-Dialogue: 0,0:15:55.43,0:15:57.39,Default,,0,0,0,,¡No! ¡Estamos rodeados!
-Dialogue: 0,0:16:02.77,0:16:06.03,Default,,0,0,0,,¡No hay salida! ¡Todos nos quedamos!
-Dialogue: 0,0:16:06.03,0:16:08.20,Default,,0,0,0,,¡Pelearemos juntos!
-Dialogue: 0,0:16:22.77,0:16:23.46,Default,,0,0,0,,¡Suzanne!
+Dialogue: 0,0:15:39.26,0:15:41.59,Default,,0,0,0,,{\i1}Ya me cansé de todo.
+Dialogue: 0,0:15:42.59,0:15:44.22,Default,,0,0,0,,{\i1}Volveré a quedarme sin nada.
+Dialogue: 0,0:15:46.56,0:15:47.89,Default,,0,0,0,,¡Yo los distraeré!
+Dialogue: 0,0:15:47.89,0:15:49.14,Default,,0,0,0,,¡Ustedes huyan!
+Dialogue: 0,0:15:49.14,0:15:49.93,Default,,0,0,0,,¡No! 
+Dialogue: 0,0:15:49.93,0:15:51.10,Default,,0,0,0,,¡Yo también me quedo!
+Dialogue: 0,0:15:51.10,0:15:52.93,Default,,0,0,0,,¡No los detendrás!
+Dialogue: 0,0:15:55.43,0:15:56.44,Default,,0,0,0,,¡No puede ser!
+Dialogue: 0,0:15:56.44,0:15:57.39,Default,,0,0,0,,¡Estamos rodeados!
+Dialogue: 0,0:16:02.77,0:16:04.66,Default,,0,0,0,,¡No hay salida!
+Dialogue: 0,0:16:04.66,0:16:06.03,Default,,0,0,0,,¡Nos quedamos todos!
+Dialogue: 0,0:16:06.03,0:16:08.20,Default,,0,0,0,,¡Sí, lo haremos juntos!
+Dialogue: 0,0:16:22.93,0:16:23.46,Default,,0,0,0,,¡Suzanne!
 Dialogue: 0,0:16:23.46,0:16:25.62,Default,,0,0,0,,El poder divino es abundante y revitalizador.
-Dialogue: 0,0:16:25.62,0:16:29.47,Default,,0,0,0,,Ofrece la fuerza para levantarse de nuevo a quienes han perdido su fuerza.
-Dialogue: 0,0:16:29.47,0:16:30.84,Default,,0,0,0,,¡Curación! {o lo dejo como "healing"?}
-Dialogue: 0,0:16:38.23,0:16:42.29,Default,,0,0,0,,{\i1}¿Por qué nadie está huyendo?
-Dialogue: 0,0:16:42.84,0:16:45.83,Default,,0,0,0,,{\i1}¿Por qué estoy tan inquieto?
-Dialogue: 0,0:16:46.70,0:16:49.48,Default,,0,0,0,,{\i1}¿Por qué se me agita la respiración?
-Dialogue: 0,0:16:50.11,0:16:53.95,Default,,0,0,0,,{\i1}¿Por qué me siento tan nervioso?
-Dialogue: 0,0:17:02.37,0:17:04.96,Default,,0,0,0,,{\i1}Ya entendí.
-Dialogue: 0,0:17:04.96,0:17:06.69,Default,,0,0,0,,{\i1}Ya lo recuerdo.
-Dialogue: 0,0:17:06.69,0:17:08.05,Default,,0,0,0,,{\i1}Claro que sé
-Dialogue: 0,0:17:08.05,0:17:09.97,Default,,0,0,0,,{\i1}por qué se quedaron a pelear.
-Dialogue: 0,0:17:10.44,0:17:11.90,Default,,0,0,0,,{\i1}Lo sé desde siempre.
-Dialogue: 0,0:17:39.08,0:17:40.28,Default,,0,0,0,,¿Qué haces?
-Dialogue: 0,0:17:44.12,0:17:47.13,Default,,0,0,0,,No te preocupes.\NDeja que me encargue yo.
-Dialogue: 0,0:19:14.70,0:19:16.47,Default,,0,0,0,,Te debemos una.
-Dialogue: 0,0:19:17.05,0:19:19.75,Default,,0,0,0,,Si no fuese por ti, estaríamos muertos.
-Dialogue: 0,0:19:22.89,0:19:25.08,Default,,0,0,0,,Me alegra haber venido con ustedes. {Me alegra haber decidido venir}
-Dialogue: 0,0:19:26.19,0:19:27.60,Default,,0,0,0,,Muchas gracias.
+Dialogue: 0,0:16:25.62,0:16:27.62,Default,,0,0,0,,Otorga la voluntad para levantarse
+Dialogue: 0,0:16:27.62,0:16:29.47,Default,,0,0,0,,a los que han perdido su fuerza.
+Dialogue: 0,0:16:29.47,0:16:30.73,Default,,0,0,0,,¡Healing! {o lo dejo como "healing"?}{sí, si vas a dejar exa-flame y luster grizzlies que me da ansiedad}
+Dialogue: 0,0:16:38.40,0:16:39.36,Default,,0,0,0,,{\i1}¿Por qué...
+Dialogue: 0,0:16:40.22,0:16:42.29,Default,,0,0,0,,{\i1} nadie intenta huir?
+Dialogue: 0,0:16:43.00,0:16:44.36,Default,,0,0,0,,{\i1}¿Por qué...
+Dialogue: 0,0:16:44.36,0:16:45.83,Default,,0,0,0,,{\i1}estoy tan inquieto?
+Dialogue: 0,0:16:46.82,0:16:49.48,Default,,0,0,0,,{\i1}¿Por qué se me agita la respiración?
+Dialogue: 0,0:16:50.11,0:16:51.70,Default,,0,0,0,,{\i1}¿Por qué...
+Dialogue: 0,0:16:51.70,0:16:53.58,Default,,0,0,0,,{\i1} me siento tan nervioso?
+Dialogue: 0,0:17:02.47,0:17:03.09,Default,,0,0,0,,{\i1}Claro.
+Dialogue: 0,0:17:03.49,0:17:04.47,Default,,0,0,0,,{\i1}Ya entendí.
+Dialogue: 0,0:17:04.96,0:17:06.31,Default,,0,0,0,,{\i1}Ahora lo recuerdo.
+Dialogue: 0,0:17:06.97,0:17:09.97,Default,,0,0,0,,{\i1}Sé por qué se quedaron a pelear.
+Dialogue: 0,0:17:10.60,0:17:11.85,Default,,0,0,0,,{\i1}Siempre lo supe.
+Dialogue: 0,0:17:39.26,0:17:40.28,Default,,0,0,0,,¿Qué haces?
+Dialogue: 0,0:17:44.12,0:17:45.51,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:17:45.51,0:17:47.13,Default,,0,0,0,,Yo me encargo.
+Dialogue: 0,0:19:14.85,0:19:16.47,Default,,0,0,0,,Nos salvaste.
+Dialogue: 0,0:19:17.10,0:19:19.75,Default,,0,0,0,,Si no fuera por ti, estaríamos muertos.
+Dialogue: 0,0:19:22.89,0:19:24.98,Default,,0,0,0,,Me alegra haber venido con ustedes. {Me alegra haber decidido venir}
+Dialogue: 0,0:19:26.23,0:19:27.60,Default,,0,0,0,,Muchas gracias.
 Dialogue: 0,0:19:40.83,0:19:42.37,Default,,0,0,0,,Bien, vamos a casa.
-Dialogue: 0,0:19:42.98,0:19:43.78,Default,,0,0,0,,Vamos.
-Dialogue: 0,0:19:52.00,0:19:54.13,Default,,0,0,0,,Gracias. Te debemos una.
-Dialogue: 0,0:20:08.49,0:20:09.65,Default,,0,0,0,,Malditos extranjeros.
-Dialogue: 0,0:20:17.03,0:20:18.71,Default,,0,0,0,,Se creen la gran cosa.
-Dialogue: 0,0:20:18.71,0:20:20.66,Default,,0,0,0,,Ni siquiera fue un trabajo difícil.
-Dialogue: 0,0:20:21.24,0:20:23.30,Default,,0,0,0,,Desearía que se vayan.
-Dialogue: 0,0:20:24.51,0:20:29.01,Default,,0,0,0,,¡Hoy celebramos nuestro\N primer trabajo en este pueblo!
-Dialogue: 0,0:20:29.01,0:20:31.42,Default,,0,0,0,,¡Así que, les invitaremos una ronda a todos!
-Dialogue: 0,0:20:34.59,0:20:37.50,Default,,0,0,0,,¡Escuchen y no olviden!
-Dialogue: 0,0:20:37.50,0:20:39.78,Default,,0,0,0,,Este gremio{clan?} tiene nuevos integrantes.
-Dialogue: 0,0:20:39.78,0:20:42.55,Default,,0,0,0,,¡Counter Arrow, y Rudeus!
+Dialogue: 0,0:19:42.98,0:19:43.63,Default,,0,0,0,,Sí.
+Dialogue: 0,0:19:52.00,0:19:54.18,Default,,0,0,0,,Gracias por salvarnos.
+Dialogue: 0,0:20:08.65,0:20:09.65,Default,,0,0,0,,Malditos extranjeros.
+Dialogue: 0,0:20:17.03,0:20:18.78,Default,,0,0,0,,Se creen la gran cosa.
+Dialogue: 0,0:20:18.78,0:20:20.66,Default,,0,0,0,,Ni siquiera fue un trabajo difícil.
+Dialogue: 0,0:20:21.45,0:20:23.21,Default,,0,0,0,,Que se larguen de una vez.
+Dialogue: 0,0:20:24.63,0:20:28.63,Default,,0,0,0,,¡Hoy celebramos nuestro primer trabajo en este lugar!
+Dialogue: 0,0:20:29.13,0:20:31.42,Default,,0,0,0,,¡Les invitamos la próxima ronda!
+Dialogue: 0,0:20:34.76,0:20:37.50,Default,,0,0,0,,Escuchen todos y no lo olviden,
+Dialogue: 0,0:20:37.50,0:20:39.89,Default,,0,0,0,,este gremio tiene nuevos integrantes.
+Dialogue: 0,0:20:39.89,0:20:40.98,Default,,0,0,0,,¡Counter Arrow
+Dialogue: 0,0:20:41.39,0:20:42.55,Default,,0,0,0,,y Rudeus!
 Dialogue: 0,0:20:50.39,0:20:51.81,Default,,0,0,0,,¡Rudeus!
 Dialogue: 0,0:20:51.81,0:20:53.35,Default,,0,0,0,,¡Rudeus!
 Dialogue: 0,0:20:53.35,0:20:54.82,Default,,0,0,0,,¡Rudeus!
@@ -299,26 +365,30 @@ Dialogue: 0,0:20:56.26,0:20:57.75,Default,,0,0,0,,¡Rudeus!
 Dialogue: 0,0:20:57.75,0:20:59.42,Default,,0,0,0,,¡Rudeus!
 Dialogue: 0,0:20:59.42,0:21:01.12,Default,,0,0,0,,¡Rudeus!
 Dialogue: 0,0:21:01.12,0:21:02.52,Default,,0,0,0,,¡Rudeus!
-Dialogue: 0,0:21:02.52,0:21:03.77,Default,,0,0,0,,¡Rudeus!
-Dialogue: 0,0:21:24.26,0:21:26.28,Default,,0,0,0,,Auch.
-Dialogue: 0,0:21:39.96,0:21:41.74,Default,,0,0,0,,{\i1}Había olvidado...
-Dialogue: 0,0:21:43.49,0:21:45.62,Default,,0,0,0,,{\i1}como es vivir de verdad.
-Dialogue: 0,0:21:47.94,0:21:50.00,Default,,0,0,0,,¿Qué estoy haciendo?
+Dialogue: 0,0:21:02.52,0:21:03.77,Default,,0,0,0,,{\fad(0,843)}¡Rudeus!
+Dialogue: 0,0:21:40.00,0:21:41.74,Default,,0,0,0,,{\i1}Había olvidado...
+Dialogue: 0,0:21:43.91,0:21:45.62,Default,,0,0,0,,{\i1}cómo es vivir de verdad.
+Dialogue: 0,0:21:48.00,0:21:50.00,Default,,0,0,0,,¿Qué estoy haciendo?
 Dialogue: 0,0:21:59.40,0:22:02.63,Default,,0,0,0,,¿Cómo que no tengo nada? {referencia a 15:42}
-Dialogue: 0,0:22:15.49,0:22:19.19,Default,,0,0,0,,{\i1}Tengo que recordar cuando vine a este mundo por primera vez.
-Dialogue: 0,0:22:19.56,0:22:23.95,Default,,0,0,0,,{\i1}Cuando me llevó afuera por primera vez.
-Dialogue: 0,0:22:24.53,0:22:27.70,Default,,0,0,0,,{\i1}Yo aprendí. Ella me enseñó.
-Dialogue: 0,0:22:28.01,0:22:31.11,Default,,0,0,0,,{\i1}No puedo traicionar eso.
-Dialogue: 0,0:22:32.83,0:22:36.50,Default,,0,0,0,,{\i1}Aún tengo bastante de lo que me dieron.
-Dialogue: 0,0:22:37.26,0:22:39.52,Default,,0,0,0,,{\i1}He perdido algo bastante importante,
-Dialogue: 0,0:22:40.26,0:22:44.59,Default,,0,0,0,,{\i1}pero eso no significa que he perdido todo.
-Dialogue: 0,0:22:46.61,0:22:48.60,Default,,0,0,0,,{\i1}No puedo quedarme sentado llorando.
-Dialogue: 0,0:22:50.16,0:22:53.60,Default,,0,0,0,,{\i1}Estamos separados y lejos, pero no esoy solo.
-Dialogue: 0,0:22:55.66,0:22:57.15,Default,,0,0,0,,{\i1}Esto duele.
-Dialogue: 0,0:22:58.05,0:23:01.88,Default,,0,0,0,,{\i1}Pero tengo que recordar que lo he tenido peor.
-Dialogue: 0,0:23:24.54,0:23:25.66,Default,,0,0,0,,{\i1}Sigue adelante.
-Dialogue: 0,0:23:26.11,0:23:28.89,Default,,0,0,0,,{\i1}Haz lo que tengas que hacer.
-Dialogue: 0,0:23:29.92,0:23:33.17,Default,,0,0,0,,Maestra, guíame.
+Dialogue: 0,0:22:15.69,0:22:19.19,Default,,0,0,0,,{\i1}Recuerda cuando llegaste a este mundo.
+Dialogue: 0,0:22:19.76,0:22:23.95,Default,,0,0,0,,{\i1}La primera vez que ella te enseñó el exterior.
+Dialogue: 0,0:22:24.53,0:22:26.08,Default,,0,0,0,,{\i1}Aprendiste muchas cosas.
+Dialogue: 0,0:22:26.08,0:22:27.70,Default,,0,0,0,,{\i1}Ella te enseñó mucho.
+Dialogue: 0,0:22:28.08,0:22:31.11,Default,,0,0,0,,{\i1}No puedes traicionarla ahora.
+Dialogue: 0,0:22:32.83,0:22:35.25,Default,,0,0,0,,{\i1}Me han dado muchas cosas.
+Dialogue: 0,0:22:35.25,0:22:36.50,Default,,0,0,0,,{\i1}Aún las tengo.
+Dialogue: 0,0:22:37.50,0:22:39.34,Default,,0,0,0,,{\i1}He perdido algo muy importante,
+Dialogue: 0,0:22:40.44,0:22:41.18,Default,,0,0,0,,{\i1}pero...
+Dialogue: 0,0:22:41.68,0:22:44.59,Default,,0,0,0,,{\i1}eso no significa que he perdido todo.{dividible en el 0:22:42.60 tbh}
+Dialogue: 0,0:22:46.61,0:22:48.60,Default,,0,0,0,,{\i1}No puedo quedarme llorando.
+Dialogue: 0,0:22:50.16,0:22:52.26,Default,,0,0,0,,{\i1}Estamos separados,
+Dialogue: 0,0:22:52.26,0:22:53.60,Default,,0,0,0,,{\i1}pero no estoy solo.
+Dialogue: 0,0:22:55.66,0:22:57.15,Default,,0,0,0,,{\i1}Aún duele,
+Dialogue: 0,0:22:58.05,0:22:59.84,Default,,0,0,0,,{\i1}pero recuerda, 
+Dialogue: 0,0:22:59.84,0:23:02.06,Default,,0,0,0,,{\i1\fad(',431)}has vivido cosas peores.{fad estético}
+Dialogue: 0,0:23:24.64,0:23:25.66,Default,,0,0,0,,{\i1}Sigue adelante.
+Dialogue: 0,0:23:26.36,0:23:28.89,Default,,0,0,0,,{\i1}Haz lo que tengas que hacer.
+Dialogue: 0,0:23:30.06,0:23:33.17,Default,,0,0,0,,Maestra, guíame.
 Dialogue: 0,0:23:28.89,0:23:34.89,Signs,,0,0,0,,{\blur0.55\fs80\fnITC Souvenir Std Light\pos(960,342.333)}Episodio Uno
 Dialogue: 1,0:23:28.89,0:23:34.89,Signs,,0,0,0,,{\blur0.5\fs150\fnITC Souvenir Std Light\pos(960,780)\c&HFFFFFD&}El mago descorazonado
 Dialogue: 0,0:23:35.44,0:23:39.90,Signs,,0,0,0,,{\c&H02124B&\blur0.55\fnQuadraat-Regular\pos(960,653.238)\alpha&HFF&\t(0,120,\alpha&H00&)}E{\alpha&HFF&\t(57,177,\alpha&H00&)}l{\alpha&HFF&\t(115,235,\alpha&H00&)} b{\alpha&HFF&\t(172,292,\alpha&H00&)}o{\alpha&HFF&\t(230,350,\alpha&H00&)}s{\alpha&HFF&\t(287,407,\alpha&H00&)}q{\alpha&HFF&\t(345,465,\alpha&H00&)}u{\alpha&HFF&\t(402,522,\alpha&H00&)}e {\alpha&HFF&\t(460,580,\alpha&H00&)}a {\alpha&HFF&\t(517,637,\alpha&H00&)}m{\alpha&HFF&\t(575,695,\alpha&H00&)}e{\alpha&HFF&\t(632,752,\alpha&H00&)}d{\alpha&HFF&\t(690,810,\alpha&H00&)}i{\alpha&HFF&\t(747,867,\alpha&H00&)}a{\alpha&HFF&\t(805,925,\alpha&H00&)}n{\alpha&HFF&\t(862,982,\alpha&H00&)}o{\alpha&HFF&\t(920,1040,\alpha&H00&)}c{\alpha&HFF&\t(977,1097,\alpha&H00&)}h{\alpha&HFF&\t(1035,1155,\alpha&H00&)}e
