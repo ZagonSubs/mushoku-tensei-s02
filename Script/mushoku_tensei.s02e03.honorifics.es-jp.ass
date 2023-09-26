@@ -16,298 +16,388 @@ Style: DefaultTop,Google Sans Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H32000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.60,0:00:02.57,Default,,0,0,0,,Buen trabajo, chicos.
-Dialogue: 0,0:00:02.57,0:00:03.73,Default,,0,0,0,,¡Buen trabajo!
-Dialogue: 0,0:00:08.49,0:00:12.32,Default,,0,0,0,,Nos salvaste otra ves, Rudeus.\NEse es nuestro Pantanoso.
-Dialogue: 0,0:00:12.32,0:00:17.50,Default,,0,0,0,,No, no, no hubiese podido hacer nada de no haber trabajado todos en equipo.
-Dialogue: 0,0:00:17.50,0:00:19.54,Default,,0,0,0,,Siempre eres tan modesto.
-Dialogue: 0,0:00:19.96,0:00:25.05,Default,,0,0,0,,{\i1}Desde esa noche, he trabajado con Counter Arrow casi siempre.
-Dialogue: 0,0:00:25.63,0:00:27.76,Default,,0,0,0,,{\i1}Mi reputación creció.
-Dialogue: 0,0:00:27.76,0:00:32.89,Default,,0,0,0,,{\i1}Incluso los citadinos locales\Nhablaban de un tal Pantanoso Rudeus.
-Dialogue: 0,0:00:33.35,0:00:35.06,Default,,0,0,0,,{\i1}Y varias cosas también cambiaron.
-Dialogue: 0,0:00:35.64,0:00:38.18,Default,,0,0,0,,{\i1}Sara y yo nos volvimos cercanos.
-Dialogue: 0,0:00:38.18,0:00:43.77,Default,,0,0,0,,Bueno, mi padre era un cazador, así que he practicado arquería desde pequeña.
-Dialogue: 0,0:00:44.11,0:00:49.49,Default,,0,0,0,,Por eso es que uso un arco, aunque no sean buenos para los aventureros.
-Dialogue: 0,0:00:49.49,0:00:55.74,Default,,0,0,0,,Mi padre era un caballero, pero tenía\Nmás talento en la magia que con la espada,
-Dialogue: 0,0:00:56.49,0:01:00.62,Default,,0,0,0,,así que contrató a un mago llamado Roxy para que me enseñe.
+Dialogue: 0,0:00:00.60,0:00:02.61,Default,,0,0,0,,Buen trabajo, chicos.
+Dialogue: 0,0:00:02.61,0:00:03.73,Default,,0,0,0,,¡Buen trabajo!
+Dialogue: 0,0:00:08.49,0:00:10.83,Default,,0,0,0,,Rudeus, nos has vuelto a salvar.
+Dialogue: 0,0:00:10.83,0:00:12.32,Default,,0,0,0,,Ese es nuestro Pantano.
+Dialogue: 0,0:00:12.32,0:00:13.53,Default,,0,0,0,,No.
+Dialogue: 0,0:00:13.53,0:00:15.42,Default,,0,0,0,,Si no fuera por ustedes,
+Dialogue: 0,0:00:15.42,0:00:17.04,Default,,0,0,0,,no habría podido hacer nada.
+Dialogue: 0,0:00:17.59,0:00:19.54,Default,,0,0,0,,Siempre tan modesto.
+Dialogue: 0,0:00:19.54,0:00:21.48,Default,,0,0,0,,{\i1}Desde esa noche,
+Dialogue: 0,0:00:21.48,0:00:25.05,Default,,0,0,0,,{\i1}paso más tiempo trabajando con Counter Arrow.
+Dialogue: 0,0:00:25.63,0:00:27.76,Default,,0,0,0,,{\i1}Mi reputación ha crecido.
+Dialogue: 0,0:00:27.76,0:00:32.89,Default,,0,0,0,,{\i1}Incluso los locales hablan\Nde un tal "Rudeus el Pantano".
+Dialogue: 0,0:00:33.35,0:00:35.06,Default,,0,0,0,,{\i1}Otra cosa también cambió.
+Dialogue: 0,0:00:35.64,0:00:38.18,Default,,0,0,0,,{\i1}Sara y yo somos más cercanos.
+Dialogue: 0,0:00:38.18,0:00:40.82,Default,,0,0,0,,Verás, mi padre era un cazador,
+Dialogue: 0,0:00:40.82,0:00:43.77,Default,,0,0,0,,así que he practicado con el arco desde pequeña.
+Dialogue: 0,0:00:44.11,0:00:46.11,Default,,0,0,0,,Por eso sigo usándolo,
+Dialogue: 0,0:00:46.11,0:00:49.24,Default,,0,0,0,,aunque no sea lo más conveniente para un aventurero.
+Dialogue: 0,0:00:49.24,0:00:51.87,Default,,0,0,0,,Mi padre era un caballero,
+Dialogue: 0,0:00:51.87,0:00:55.74,Default,,0,0,0,,pero yo tenía más talento\Ncon la magia que la espada.
+Dialogue: 0,0:00:56.49,0:01:00.62,Default,,0,0,0,,Contrató a un mago llamado Roxy para que me enseñara.
 Dialogue: 0,0:01:02.25,0:01:05.13,Default,,0,0,0,,¿Ese mago era mujer?
-Dialogue: 0,0:01:05.13,0:01:10.09,Default,,0,0,0,,Sí. Es mi maestra y la persona\Nmás maravillosa que existe.
-Dialogue: 0,0:01:10.09,0:01:12.26,Default,,0,0,0,,Ah, ¿sí?
-Dialogue: 0,0:01:12.64,0:01:16.35,Default,,0,0,0,,{\i1}Algunos temas la ponen{a Sara} de mal humor, pero fuera de eso nos llevamos bien.
-Dialogue: 0,0:01:18.60,0:01:21.35,Default,,0,0,0,,Y, cambiando de tema.
+Dialogue: 0,0:01:05.13,0:01:06.09,Default,,0,0,0,,Sí.
+Dialogue: 0,0:01:06.09,0:01:07.59,Default,,0,0,0,,Fue mi maestra
+Dialogue: 0,0:01:08.10,0:01:10.09,Default,,0,0,0,,y era muy increíble.
+Dialogue: 0,0:01:10.09,0:01:12.64,Default,,0,0,0,,Ah, ya veo.
+Dialogue: 0,0:01:12.64,0:01:14.09,Default,,0,0,0,,{\i1}Nos llevamos bien,
+Dialogue: 0,0:01:14.09,0:01:16.35,Default,,0,0,0,,{\i1}pero a veces se pone de mal humor.
+Dialogue: 0,0:01:18.60,0:01:21.35,Default,,0,0,0,,Cierto, cambiando de tema.
 Dialogue: 0,0:01:21.35,0:01:22.02,Default,,0,0,0,,¿Sí?
-Dialogue: 0,0:01:22.39,0:01:25.98,Default,,0,0,0,,También sé algo de esgrima.
-Dialogue: 0,0:01:25.98,0:01:29.23,Default,,0,0,0,,Uso el mío para reparar mi traje, pero...
-Dialogue: 0,0:01:29.23,0:01:32.07,Default,,0,0,0,,La daga está bastante gastada,
-Dialogue: 0,0:01:32.07,0:01:36.87,Default,,0,0,0,,y he pensado en ir a comprar otra.
-Dialogue: 0,0:01:36.87,0:01:37.83,Default,,0,0,0,,Eso veo.
+Dialogue: 0,0:01:22.02,0:01:25.98,Default,,0,0,0,,También manejo algo la espada.
+Dialogue: 0,0:01:25.98,0:01:29.23,Default,,0,0,0,,La uso para reparar mi equipo, pero...
+Dialogue: 0,0:01:29.23,0:01:32.07,Default,,0,0,0,,la hoja está muy gastada.
+Dialogue: 0,0:01:32.07,0:01:36.87,Default,,0,0,0,,así que pensé que debería comprar otra.
 Dialogue: 0,0:01:37.83,0:01:40.58,Default,,0,0,0,,Rudeus, si estás libre mañana,
-Dialogue: 0,0:01:41.04,0:01:43.00,Default,,0,0,0,,¿quisieras venir conmigo a buscar una?
-Dialogue: 0,0:01:43.42,0:01:45.71,Default,,0,0,0,,Claro, no veo por qué no.
-Dialogue: 0,0:01:47.46,0:01:48.88,Default,,0,0,0,,Decidido, entonces.
-Dialogue: 0,0:01:55.05,0:01:59.81,Default,,0,0,0,,{\i1}Entonces, me di cuenta de a qué me había invitado.
-Dialogue: 0,0:02:00.43,0:02:01.81,Default,,0,0,0,,{\i1}A una cita.
-Dialogue: 0,0:03:34.44,0:03:37.45,Default,,0,0,0,,Eso fue divertido.
-Dialogue: 0,0:03:37.45,0:03:41.28,Default,,0,0,0,,Todas esas cosas me hicieron querer una pechera nueva.
-Dialogue: 0,0:03:41.28,0:03:43.24,Default,,0,0,0,,¿Hay algo de malo con la que tienes ahora?
-Dialogue: 0,0:03:43.66,0:03:49.37,Default,,0,0,0,,Es que lo compré hace un tiempo, y se ha vuelto algo ajustado.
-Dialogue: 0,0:03:50.08,0:03:51.63,Default,,0,0,0,,Ajustado...
-Dialogue: 0,0:03:52.00,0:03:54.34,Default,,0,0,0,,¿Por qué te sonrojas?
-Dialogue: 0,0:03:54.34,0:03:57.72,Default,,0,0,0,,Todos los hombres son iguales.
-Dialogue: 0,0:04:03.68,0:04:05.72,Default,,0,0,0,,Siento que estoy algo ebria...
-Dialogue: 0,0:04:06.43,0:04:10.10,Default,,0,0,0,,Siempre tomo mucho cuando estamos juntos.
-Dialogue: 0,0:04:11.94,0:04:13.36,Default,,0,0,0,,¿En serio?
-Dialogue: 0,0:04:13.73,0:04:16.32,Default,,0,0,0,,Sí. Me pregunto por qué...
+Dialogue: 0,0:01:41.04,0:01:43.00,Default,,0,0,0,,¿quisieras ir conmigo?
+Dialogue: 0,0:01:43.42,0:01:45.71,Default,,0,0,0,,Está bien, vamos.
+Dialogue: 0,0:01:47.46,0:01:48.88,Default,,0,0,0,,Decidido.
+Dialogue: 0,0:01:55.05,0:01:59.71,Default,,0,0,0,,{\i1}Entonces, me di cuenta\Nde a qué me había invitado.
+Dialogue: 0,0:02:00.53,0:02:01.81,Default,,0,0,0,,{\i1}Una cita.
+Dialogue: 0,0:03:35.41,0:03:36.54,Default,,0,0,0,,Eso fue divertido.
+Dialogue: 0,0:03:37.45,0:03:41.28,Default,,0,0,0,,Mirar todas esas cosas me dio ganas de comprar una pechera nueva.
+Dialogue: 0,0:03:41.28,0:03:43.24,Default,,0,0,0,,¿Hay algo malo con la que tienes ahora?
+Dialogue: 0,0:03:45.00,0:03:47.00,Default,,0,0,0,,Es que la uso desde hace tiempo
+Dialogue: 0,0:03:47.00,0:03:49.37,Default,,0,0,0,,y se ha vuelto algo ajustada.
+Dialogue: 0,0:03:50.08,0:03:51.63,Default,,0,0,0,,Ajustada...
+Dialogue: 0,0:03:52.09,0:03:54.34,Default,,0,0,0,,¿Por qué te sonrojas?
+Dialogue: 0,0:03:54.34,0:03:55.60,Default,,0,0,0,,Cielos...
+Dialogue: 0,0:03:55.60,0:03:57.72,Default,,0,0,0,,Todos los hombres son iguales.
+Dialogue: 0,0:04:03.68,0:04:05.72,Default,,0,0,0,,Me siento algo ebria...
+Dialogue: 0,0:04:06.43,0:04:08.23,Default,,0,0,0,,Cuando estamos juntos,{Siempre tomo mucho cuando estamos juntos.}
+Dialogue: 0,0:04:08.23,0:04:10.10,Default,,0,0,0,,siempre bebo demasiado.
+Dialogue: 0,0:04:12.04,0:04:13.75,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:04:13.75,0:04:14.74,Default,,0,0,0,,Sí.
+Dialogue: 0,0:04:14.74,0:04:16.32,Default,,0,0,0,,¿Por qué será?
 Dialogue: 0,0:04:16.32,0:04:19.95,Default,,0,0,0,,Tal vez porque me siento segura junto a ti.
-Dialogue: 0,0:04:19.95,0:04:21.74,Default,,0,0,0,,{\i1}¿Esto es lo que creo que es?
-Dialogue: 0,0:04:22.49,0:04:26.16,Default,,0,0,0,,{\i1}¿Tengo una oportunidad?
-Dialogue: 0,0:04:28.87,0:04:30.42,Default,,0,0,0,,Rudeus.
-Dialogue: 0,0:04:30.71,0:04:33.04,Default,,0,0,0,,Sara...
+Dialogue: 0,0:04:19.95,0:04:21.74,Default,,0,0,0,,{\i1}¿Es lo que creo que es?
+Dialogue: 0,0:04:22.49,0:04:26.16,Default,,0,0,0,,{\i1}¿En serio tengo una oportunidad?
+Dialogue: 0,0:04:28.92,0:04:30.42,Default,,0,0,0,,Rudeus.
+Dialogue: 0,0:04:30.67,0:04:33.04,Default,,0,0,0,,Sara...
 Dialogue: 0,0:04:33.04,0:04:34.67,Default,,0,0,0,,{\i1}Bien, lo haré.
-Dialogue: 0,0:04:34.67,0:04:40.05,Default,,0,0,0,,{\i1}Ya es hora de que deje el pasado\Nen el pasado y siga adelante.
-Dialogue: 0,0:04:43.35,0:04:47.10,Default,,0,0,0,,¿Por qué no lo dejamos aquí?\NYa se está haciendo tarde.
-Dialogue: 0,0:04:47.10,0:04:48.56,Default,,0,0,0,,Te acompaño a tu hospedaje.
-Dialogue: 0,0:04:49.14,0:04:53.94,Default,,0,0,0,,{\i1}Debo ser cuidadoso y esperar para dar mi movida.
-Dialogue: 0,0:04:53.94,0:04:55.65,Default,,0,0,0,,{\i1}¿Verdad, Paul?
-Dialogue: 0,0:04:58.90,0:05:03.03,Default,,0,0,0,,Creo que me gustaría hablar un poco más.
-Dialogue: 0,0:05:05.03,0:05:10.04,Default,,0,0,0,,Bueno, ¿vamos a otra taberna?
-Dialogue: 0,0:05:14.25,0:05:17.71,Default,,0,0,0,,¿Y si mejor vamos a tu habitación?
-Dialogue: 0,0:05:17.71,0:05:20.72,Default,,0,0,0,,{\i1}¿Sabrá lo que está diciendo?
-Dialogue: 0,0:05:21.30,0:05:23.59,Default,,0,0,0,,{\i1}No, no, tengo que controlarme.
-Dialogue: 0,0:05:23.59,0:05:25.89,Default,,0,0,0,,{\i1}No es que tengamos algo Sara y yo.
+Dialogue: 0,0:04:34.67,0:04:37.18,Default,,0,0,0,,{\i1}Ya es momento de olvidar el pasado
+Dialogue: 0,0:04:37.18,0:04:40.05,Default,,0,0,0,,{\i1}y dar el siguiente paso hacia adelante.
+Dialogue: 0,0:04:43.35,0:04:45.76,Default,,0,0,0,,¿Por qué no lo dejamos aquí?
+Dialogue: 0,0:04:45.76,0:04:47.10,Default,,0,0,0,,Se está haciendo tarde.
+Dialogue: 0,0:04:47.10,0:04:48.56,Default,,0,0,0,,Te acompaño a tu habitación.
+Dialogue: 0,0:04:49.14,0:04:51.13,Default,,0,0,0,,{\i1}Debo ser precavido
+Dialogue: 0,0:04:51.13,0:04:53.94,Default,,0,0,0,,{\i1}y esperar mi oportunidad.
+Dialogue: 0,0:04:53.94,0:04:55.65,Default,,0,0,0,,{\i1}¿No es así, Paul?
+Dialogue: 0,0:04:58.90,0:05:03.03,Default,,0,0,0,,Quiero hablar un poco más.
+Dialogue: 0,0:05:05.03,0:05:06.76,Default,,0,0,0,,Entonces...
+Dialogue: 0,0:05:06.76,0:05:10.04,Default,,0,0,0,,¿Vamos a otro bar?
+Dialogue: 0,0:05:14.25,0:05:17.71,Default,,0,0,0,,Podemos ir a tu habitación.
+Dialogue: 0,0:05:17.71,0:05:20.72,Default,,0,0,0,,{\i1}¿Se dará cuenta de lo que está diciendo?
+Dialogue: 0,0:05:21.30,0:05:23.59,Default,,0,0,0,,{\i1}No, no, debo controlarme.
+Dialogue: 0,0:05:23.59,0:05:25.89,Default,,0,0,0,,{\i1}Sara y yo ni siquiera tenemos esa relación.
 Dialogue: 0,0:05:25.89,0:05:27.35,Default,,0,0,0,,{\i1}Espera y lee el ambiente.
-Dialogue: 0,0:05:27.35,0:05:30.73,Default,,0,0,0,,{\i1}¿O mejor dejo de lado\N la autodisciplina y me dejo llevar?
-Dialogue: 0,0:05:31.23,0:05:34.40,Default,,0,0,0,,Bueno, vámonos.
-Dialogue: 0,0:05:44.87,0:05:46.20,Default,,0,0,0,,Aquí es.
+Dialogue: 0,0:05:27.35,0:05:30.73,Default,,0,0,0,,{\i1}¿Y si me olvido de la autodisciplina y me dejo llevar?
+Dialogue: 0,0:05:31.23,0:05:32.86,Default,,0,0,0,,Bien...
+Dialogue: 0,0:05:32.86,0:05:34.40,Default,,0,0,0,,¿Nos vamos?
+Dialogue: 0,0:05:44.87,0:05:45.87,Default,,0,0,0,,Es aquí.
 Dialogue: 0,0:05:46.74,0:05:48.20,Default,,0,0,0,,Con permiso.
-Dialogue: 0,0:06:01.05,0:06:03.68,Default,,0,0,0,,¿Te gustaría algo para tomar?
-Dialogue: 0,0:06:03.68,0:06:06.35,Default,,0,0,0,,No te molestes. Ven aquí.
-Dialogue: 0,0:06:06.35,0:06:07.14,Default,,0,0,0,,Bien.
-Dialogue: 0,0:06:07.14,0:06:08.10,Default,,0,0,0,,{\i1}Aquí va.
-Dialogue: 0,0:06:12.31,0:06:13.60,Default,,0,0,0,,Y...
+Dialogue: 0,0:06:01.05,0:06:03.68,Default,,0,0,0,,¿Quieres tomar algo?
+Dialogue: 0,0:06:03.68,0:06:05.14,Default,,0,0,0,,No te molestes.
+Dialogue: 0,0:06:05.14,0:06:06.35,Default,,0,0,0,,Ven aquí.
+Dialogue: 0,0:06:06.35,0:06:07.14,Default,,0,0,0,,Sí.
+Dialogue: 0,0:06:07.14,0:06:08.10,Default,,0,0,0,,{\i1}Voy.
+Dialogue: 0,0:06:12.31,0:06:13.60,Default,,0,0,0,,Oye...
 Dialogue: 0,0:06:13.60,0:06:14.77,Default,,0,0,0,,¿Sí?
-Dialogue: 0,0:06:15.15,0:06:19.02,Default,,0,0,0,,Estoy muy agradecida contigo.
-Dialogue: 0,0:06:19.02,0:06:22.65,Default,,0,0,0,,Digo, hubiese muerto si no llegabas.
+Dialogue: 0,0:06:15.15,0:06:19.02,Default,,0,0,0,,Estoy muy agradecida.
+Dialogue: 0,0:06:19.02,0:06:22.65,Default,,0,0,0,,Si no hubieras ido a salvarme, estaría muerta.
 Dialogue: 0,0:06:27.24,0:06:29.79,Default,,0,0,0,,Así que...
-Dialogue: 0,0:06:30.66,0:06:32.87,Default,,0,0,0,,Adelante. {Puedes hacerlo.}
-Dialogue: 0,0:06:50.10,0:06:50.81,Default,,0,0,0,,{\i1}¿Qué?
-Dialogue: 0,0:07:04.90,0:07:05.90,Default,,0,0,0,,¿Qué?
-Dialogue: 0,0:07:06.45,0:07:07.74,Default,,0,0,0,,¿Qué pasa?
-Dialogue: 0,0:07:07.74,0:07:09.95,Default,,0,0,0,,{\i1}Finalmente me di cuenta.
-Dialogue: 0,0:07:09.95,0:07:13.37,Default,,0,0,0,,{\i1}Ya vi por qué sentía que algo andaba mal.
-Dialogue: 0,0:07:13.79,0:07:18.29,Default,,0,0,0,,{\i1}No hay nada de malo con Sara.\NSu cuerpo era increíble.
-Dialogue: 0,0:07:19.25,0:07:22.05,Default,,0,0,0,,{\i1}Sí, ella estaba bien.
-Dialogue: 0,0:07:22.42,0:07:25.67,Default,,0,0,0,,{\i1}Pero yo no. {El problema era yo.}
+Dialogue: 0,0:06:30.66,0:06:32.87,Default,,0,0,0,,Puedes hacerlo.
+Dialogue: 0,0:06:50.10,0:06:50.81,Default,,0,0,0,,{\i1}¿Eh?
+Dialogue: 0,0:07:04.90,0:07:05.90,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:07:06.45,0:07:07.74,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:07:07.74,0:07:13.37,Default,,0,0,0,,{\i1}Por fin entendí por qué\Nsentía que algo andaba mal.
+Dialogue: 0,0:07:13.79,0:07:16.73,Default,,0,0,0,,{\i1}No había nada de malo con Sara.
+Dialogue: 0,0:07:16.73,0:07:18.29,Default,,0,0,0,,{\i1}Su cuerpo era increíble.
+Dialogue: 0,0:07:19.25,0:07:22.05,Default,,0,0,0,,{\i1}Sí, ella no era el problema.
+Dialogue: 0,0:07:22.42,0:07:25.67,Default,,0,0,0,,{\i1}El problema era yo.
 Dialogue: 0,0:07:25.67,0:07:28.93,Default,,0,0,0,,{\i1}Mi cuerpo me decía que algo andaba mal.
-Dialogue: 0,0:07:28.93,0:07:32.06,Default,,0,0,0,,{\i1}O, mejor dicho, no me decía nada.
-Dialogue: 0,0:07:32.43,0:07:35.48,Default,,0,0,0,,{\i1}Simplemente estaba inerte.
-Dialogue: 0,0:07:36.31,0:07:37.31,Default,,0,0,0,,¿Qué?
-Dialogue: 0,0:07:39.19,0:07:41.69,Default,,0,0,0,,{\i1}¿Por qué? ¿Cómo?
-Dialogue: 0,0:07:41.69,0:07:44.19,Default,,0,0,0,,{\i1}¿Desde cuándo? ¿Desde cuándo estoy así?
+Dialogue: 0,0:07:28.93,0:07:32.06,Default,,0,0,0,,{\i1}No, en realidad no me decía nada.
+Dialogue: 0,0:07:32.43,0:07:35.48,Default,,0,0,0,,{\i1}Solo estaba inerte.
+Dialogue: 0,0:07:36.31,0:07:37.31,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:07:39.19,0:07:40.45,Default,,0,0,0,,{\i1}¿Por qué?
+Dialogue: 0,0:07:40.45,0:07:41.69,Default,,0,0,0,,{\i1}¿Cómo?
+Dialogue: 0,0:07:41.69,0:07:42.73,Default,,0,0,0,,{\i1}¿Desde cuándo?
+Dialogue: 0,0:07:42.73,0:07:44.19,Default,,0,0,0,,{\i1}¿Desde cuándo estoy así?
 Dialogue: 0,0:07:44.65,0:07:46.86,Default,,0,0,0,,{\i1}No tiene sentido.
-Dialogue: 0,0:07:46.86,0:07:50.91,Default,,0,0,0,,{\i1}Nunca se quedaba pequeño cuando quería, ¿por qué ashora sí?
-Dialogue: 0,0:07:50.91,0:07:54.58,Default,,0,0,0,,{\i1}¿Qué demonios le pasa a mi cuerpo?
-Dialogue: 0,0:07:55.41,0:07:56.58,Default,,0,0,0,,Sabes,
-Dialogue: 0,0:07:57.79,0:08:02.42,Default,,0,0,0,,no es que me gustes y eso.
+Dialogue: 0,0:07:46.86,0:07:49.23,Default,,0,0,0,,{\i1}Nunca se quedaba pequeño cuando quería.
+Dialogue: 0,0:07:49.23,0:07:50.91,Default,,0,0,0,,{\i1}¿Por qué ahora?
+Dialogue: 0,0:07:50.91,0:07:54.58,Default,,0,0,0,,{\i1}¿Qué está mal con mi cuerpo?
+Dialogue: 0,0:07:55.41,0:07:56.58,Default,,0,0,0,,Oye...
+Dialogue: 0,0:07:57.79,0:07:59.60,Default,,0,0,0,,No es...
+Dialogue: 0,0:07:59.60,0:08:02.42,Default,,0,0,0,,que me gustes ni nada.
 Dialogue: 0,0:08:02.88,0:08:03.59,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:08:04.25,0:08:09.68,Default,,0,0,0,,Solo... quería agradecerte.\NQuería devolverte el favor.
-Dialogue: 0,0:08:10.18,0:08:12.35,Default,,0,0,0,,No pienses cosas que no son.
-Dialogue: 0,0:08:12.68,0:08:15.64,Default,,0,0,0,,Lo estaba haciendo por obligación.
+Dialogue: 0,0:08:04.25,0:08:05.71,Default,,0,0,0,,Solo...
+Dialogue: 0,0:08:05.71,0:08:09.68,Default,,0,0,0,,era una de forma de agradecerte.
+Dialogue: 0,0:08:10.18,0:08:12.68,Default,,0,0,0,,Así que no te confundas.
+Dialogue: 0,0:08:12.68,0:08:15.64,Default,,0,0,0,,Lo estaba haciendo porque me sentí obligada.
 Dialogue: 0,0:08:16.02,0:08:17.18,Default,,0,0,0,,¿Qué?
 Dialogue: 0,0:08:17.18,0:08:18.77,Default,,0,0,0,,Adiós.
-Dialogue: 0,0:08:18.77,0:08:19.77,Default,,0,0,0,,¡Oye, espe...!
+Dialogue: 0,0:08:18.77,0:08:19.77,Default,,0,0,0,,¡Espe...!
 Dialogue: 0,0:08:20.10,0:08:21.73,Default,,0,0,0,,Qué horror. {meh}
-Dialogue: 0,0:08:35.37,0:08:36.79,Default,,0,0,0,,Tengo frío.
-Dialogue: 0,0:08:40.58,0:08:42.21,Default,,0,0,0,,¡Dame una más!
+Dialogue: 0,0:08:35.47,0:08:36.79,Default,,0,0,0,,Tengo frío.
+Dialogue: 0,0:08:40.71,0:08:42.21,Default,,0,0,0,,¡Dame una más!
 Dialogue: 0,0:08:42.21,0:08:45.55,Default,,0,0,0,,Oye, no es bueno que tomes así.
-Dialogue: 0,0:08:45.55,0:08:47.96,Default,,0,0,0,,¡Cállate y dame otra rápido!
-Dialogue: 0,0:08:48.51,0:08:50.22,Default,,0,0,0,,Vaya, vaya...
-Dialogue: 0,0:08:50.22,0:08:51.89,Default,,0,0,0,,Si no es el famoso Pantanoso.
-Dialogue: 0,0:08:51.89,0:08:56.93,Default,,0,0,0,,No es normal encontrarte tomando en nuestra taberna favorita.
-Dialogue: 0,0:08:58.10,0:09:03.77,Default,,0,0,0,,¿Por qué lloriqueas?\N¿Tuviste un mal día?
-Dialogue: 0,0:09:03.77,0:09:05.77,Default,,0,0,0,,Apuesto a que sí.
-Dialogue: 0,0:09:05.77,0:09:08.49,Default,,0,0,0,,Cuando se pone difícil, huyes y te escondes,
-Dialogue: 0,0:09:08.49,0:09:11.66,Default,,0,0,0,,sonriendo como un idiota\Nhasta que alguien te consuele.
-Dialogue: 0,0:09:11.66,0:09:12.36,Default,,0,0,0,,Eres...
+Dialogue: 0,0:08:45.55,0:08:47.96,Default,,0,0,0,,¡Cállate y dame otra!
+Dialogue: 0,0:08:48.51,0:08:50.22,Default,,0,0,0,,Vaya...
+Dialogue: 0,0:08:50.22,0:08:51.89,Default,,0,0,0,,Pero si es el famoso Pantano.
+Dialogue: 0,0:08:51.89,0:08:53.19,Default,,0,0,0,,Qué raro verte aquí.
+Dialogue: 0,0:08:53.83,0:08:56.93,Default,,0,0,0,,No es normal que vengas a nuestro bar favorito.
+Dialogue: 0,0:08:58.10,0:08:59.44,Default,,0,0,0,,¿Qué te pasó?
+Dialogue: 0,0:08:59.44,0:09:01.19,Default,,0,0,0,,Parece que estás llorando.
+Dialogue: 0,0:09:01.19,0:09:03.45,Default,,0,0,0,,¿Tuviste un mal día?
+Dialogue: 0,0:09:03.77,0:09:05.32,Default,,0,0,0,,Apuesto a que sí.
+Dialogue: 0,0:09:05.77,0:09:08.49,Default,,0,0,0,,Cuando se pone difícil, huyes y te escondes
+Dialogue: 0,0:09:08.49,0:09:11.66,Default,,0,0,0,,sonriendo como idiota\Nhasta que alguien te consuele.
+Dialogue: 0,0:09:11.66,0:09:12.04,Default,,0,0,0,,Eres...
 Dialogue: 0,0:09:13.45,0:09:14.28,Default,,0,0,0,,¡Oye!
-Dialogue: 0,0:09:15.03,0:09:19.96,Default,,0,0,0,,¿Por qué estás molesto?\NSiempre buscas pelearte conmigo.
+Dialogue: 0,0:09:15.03,0:09:17.38,Default,,0,0,0,,¿Por qué te molestas?
+Dialogue: 0,0:09:17.38,0:09:19.96,Default,,0,0,0,,Siempre me estás buscando pelea.
 Dialogue: 0,0:09:20.37,0:09:22.87,Default,,0,0,0,,¡¿Acaso no querías esto?!
-Dialogue: 0,0:09:22.87,0:09:24.00,Default,,0,0,0,,¿Qué estás...?
-Dialogue: 0,0:09:24.00,0:09:27.38,Default,,0,0,0,,¡¿Qué tiene de malo sonreír como un idiota?!
-Dialogue: 0,0:09:27.38,0:09:33.30,Default,,0,0,0,,¡¿Acaso quieres que vaya por el mundo insultando y presumiendo como tú?!
-Dialogue: 0,0:09:33.64,0:09:39.81,Default,,0,0,0,,¡¿Quieres que haga que los demás estén resentidos, con celos y disgustada, para que se alejen?!
-Dialogue: 0,0:09:40.14,0:09:44.65,Default,,0,0,0,,¡Si pudiese ver como pasa y no hacer nada, también sería como tú!
-Dialogue: 0,0:09:44.65,0:09:50.36,Default,,0,0,0,,¡Pero no quiero que me odien!\N¡Sonrío para que no lo hagan!
-Dialogue: 0,0:09:50.36,0:09:53.53,Default,,0,0,0,,¡¿Por qué te molesta tanto eso?!
+Dialogue: 0,0:09:22.87,0:09:23.55,Default,,0,0,0,,¿Qué estás...?
+Dialogue: 0,0:09:24.00,0:09:27.38,Default,,0,0,0,,¡¿Qué hay de malo en sonreír como idiota?!
+Dialogue: 0,0:09:27.38,0:09:30.85,Default,,0,0,0,,¡Te la pasas burlándote y humillando a los demás!
+Dialogue: 0,0:09:30.85,0:09:33.30,Default,,0,0,0,,¡Presumiendo frente al mundo!
+Dialogue: 0,0:09:33.64,0:09:37.44,Default,,0,0,0,,¡¿Acaso quieres que se resientan,\N me odien y estén celosos?!
+Dialogue: 0,0:09:37.44,0:09:39.36,Default,,0,0,0,,¡¿Que todos se alejen de mí?!
+Dialogue: 0,0:09:40.14,0:09:44.65,Default,,0,0,0,,¡Si pudiera hacerlo\Nigual que tú, también lo haría!
+Dialogue: 0,0:09:44.65,0:09:46.41,Default,,0,0,0,,¡Pero no quiero que me odien!
+Dialogue: 0,0:09:47.16,0:09:49.62,Default,,0,0,0,,¡Sonrío para caerles bien a los demás!
+Dialogue: 0,0:09:50.37,0:09:53.53,Default,,0,0,0,,¡¿Por qué te molesta tanto?!
 Dialogue: 0,0:09:54.41,0:09:56.45,Default,,0,0,0,,¿Por qué se fueron?
-Dialogue: 0,0:09:57.12,0:10:01.54,Default,,0,0,0,,Quédense. Sonrían,\Naunque no sea una sonrisa verdadera.
-Dialogue: 0,0:10:01.54,0:10:04.58,Default,,0,0,0,,¡Duele mucho{Es doloroso} que te abandonen así!
-Dialogue: 0,0:10:07.84,0:10:10.17,Default,,0,0,0,,Olvídalo. No tiene sentido.
+Dialogue: 0,0:09:57.12,0:09:58.58,Default,,0,0,0,,Quédense.
+Dialogue: 0,0:09:58.58,0:10:01.54,Default,,0,0,0,,Sonrían aunque sea mentira.
+Dialogue: 0,0:10:01.54,0:10:03.96,Default,,0,0,0,,¡Duele mucho que te abandonen!
+Dialogue: 0,0:10:07.84,0:10:09.17,Default,,0,0,0,,Olvídalo.
+Dialogue: 0,0:10:09.17,0:10:10.17,Default,,0,0,0,,Ya no importa.
 Dialogue: 0,0:10:10.63,0:10:12.22,Default,,0,0,0,,Este es mi final.
-Dialogue: 0,0:10:13.13,0:10:17.43,Default,,0,0,0,,Vamos, hazlo. Golpéame.
+Dialogue: 0,0:10:13.13,0:10:14.46,Default,,0,0,0,,Mierda...
+Dialogue: 0,0:10:14.46,0:10:15.85,Default,,0,0,0,,Vamos, hazlo.
+Dialogue: 0,0:10:15.85,0:10:17.43,Default,,0,0,0,,Golpéame.
 Dialogue: 0,0:10:17.43,0:10:18.72,Default,,0,0,0,,Diviértete con eso.
 Dialogue: 0,0:10:18.72,0:10:22.93,Default,,0,0,0,,¡Y luego búrlate cuando esté en el suelo!
-Dialogue: 0,0:10:22.93,0:10:26.10,Default,,0,0,0,,Sé que no puedo contigo en una pelea.
-Dialogue: 0,0:10:34.53,0:10:38.70,Default,,0,0,0,,Oye, Sol.\NYa deja en paz al niño.
-Dialogue: 0,0:10:38.70,0:10:40.24,Default,,0,0,0,,Claro.
-Dialogue: 0,0:10:40.70,0:10:43.71,Default,,0,0,0,,Perdón. Disculpa.
-Dialogue: 0,0:10:43.71,0:10:45.67,Default,,0,0,0,,Perdóname, ¿ya?
-Dialogue: 0,0:10:45.67,0:10:49.04,Default,,0,0,0,,Tal vez no haya alguien que lo tenga peor que tú. {referencia a un episodio anterior?}
+Dialogue: 0,0:10:22.93,0:10:26.10,Default,,0,0,0,,Sé que eres más fuerte.
+Dialogue: 0,0:10:34.53,0:10:36.25,Default,,0,0,0,,Oye, Sol.
+Dialogue: 0,0:10:36.25,0:10:38.62,Default,,0,0,0,,Ya deja en paz al niño.
+Dialogue: 0,0:10:38.62,0:10:40.24,Default,,0,0,0,,Sí.
+Dialogue: 0,0:10:40.96,0:10:42.34,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:10:42.34,0:10:43.71,Default,,0,0,0,,Lo siento mucho.
+Dialogue: 0,0:10:43.71,0:10:45.67,Default,,0,0,0,,En serio, lo siento.
+Dialogue: 0,0:10:45.67,0:10:49.04,Default,,0,0,0,,Tal vez de verdad has tenido\N una peor vida que los demás.
 Dialogue: 0,0:10:49.59,0:10:52.21,Default,,0,0,0,,¿Y tú que sabes?
-Dialogue: 0,0:10:52.76,0:10:56.51,Default,,0,0,0,,Pues...
-Dialogue: 0,0:10:56.51,0:10:58.18,Default,,0,0,0,,Ya, emborrachate.
-Dialogue: 0,0:10:58.51,0:11:00.47,Default,,0,0,0,,Y cuéntame más.
-Dialogue: 0,0:11:00.47,0:11:04.43,Default,,0,0,0,,Suelta todo.\NPuede que te ayude a averiguar algo.
+Dialogue: 0,0:10:54.26,0:10:56.51,Default,,0,0,0,,Pues...
+Dialogue: 0,0:10:56.51,0:10:58.18,Default,,0,0,0,,Tú bebe un poco
+Dialogue: 0,0:10:58.51,0:11:00.47,Default,,0,0,0,,y cuéntame más.
+Dialogue: 0,0:11:00.47,0:11:02.89,Default,,0,0,0,,Puede que así te ayude a averiguar algo.
+Dialogue: 0,0:11:02.89,0:11:04.43,Default,,0,0,0,,Suelta todo.
 Dialogue: 0,0:11:08.19,0:11:12.19,Default,,0,0,0,,Entonces, ¿tu chica te dejó\Nporque no se te paraba?
-Dialogue: 0,0:11:13.07,0:11:16.03,Default,,0,0,0,,¿Ahora te burlas de mí?
-Dialogue: 0,0:11:16.03,0:11:18.32,Default,,0,0,0,,No hago eso.
-Dialogue: 0,0:11:18.32,0:11:24.45,Default,,0,0,0,,Cuando estás deprimido,\Ntienes que buscar el por qué.
-Dialogue: 0,0:11:25.71,0:11:28.54,Default,,0,0,0,,Me sentía melancólico porque...
-Dialogue: 0,0:11:28.54,0:11:29.79,Default,,0,0,0,,No seas tan formal.
+Dialogue: 0,0:11:13.07,0:11:14.58,Default,,0,0,0,,¿Ahora qué?
+Dialogue: 0,0:11:14.58,0:11:16.03,Default,,0,0,0,,¿Te vas a burlar?
+Dialogue: 0,0:11:16.03,0:11:18.32,Default,,0,0,0,,Claro que no.
+Dialogue: 0,0:11:18.32,0:11:24.45,Default,,0,0,0,,Pero cuando estás deprimido,\N tienes que buscar la razón.
+Dialogue: 0,0:11:25.71,0:11:28.54,Default,,0,0,0,,Ya me sentía así antes.
+Dialogue: 0,0:11:28.54,0:11:29.79,Default,,0,0,0,,No seas formal.
 Dialogue: 0,0:11:29.79,0:11:30.71,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:11:30.71,0:11:36.63,Default,,0,0,0,,Sonabas más relajado antes.\NNo intentes ocultarlo detrás de palabras formales.
-Dialogue: 0,0:11:36.97,0:11:39.51,Default,,0,0,0,,Dímelo como salga.
-Dialogue: 0,0:11:42.35,0:11:45.98,Default,,0,0,0,,Estaba así por algo que pasó mucho antes.
-Dialogue: 0,0:11:45.98,0:11:47.52,Default,,0,0,0,,Verás, había una chica que me gustaba.
+Dialogue: 0,0:11:30.71,0:11:33.26,Default,,0,0,0,,Antes sonabas más relajado.
+Dialogue: 0,0:11:33.26,0:11:36.63,Default,,0,0,0,,No te ocultes detrás de esa actitud formal.
+Dialogue: 0,0:11:36.97,0:11:39.51,Default,,0,0,0,,Solo dímelo como salga.
+Dialogue: 0,0:11:42.35,0:11:45.98,Default,,0,0,0,,Estoy así por algo que pasó mucho antes.
+Dialogue: 0,0:11:45.98,0:11:47.52,Default,,0,0,0,,Había una chica que me gustaba.
 Dialogue: 0,0:11:47.52,0:11:48.73,Default,,0,0,0,,¿Sí?
-Dialogue: 0,0:11:48.73,0:11:55.03,Default,,0,0,0,,Pasaron demasiadas cosas, y lo hicimos. Fue nuestra primera vez para ambos.
-Dialogue: 0,0:11:55.03,0:11:58.91,Default,,0,0,0,,Bueno, todos empiezan en algún lugar.
-Dialogue: 0,0:11:59.28,0:12:05.66,Default,,0,0,0,,Pero cuando desperté, ella ya se había ido.
-Dialogue: 0,0:12:05.66,0:12:08.00,Default,,0,0,0,,Entonces, ¿te abandonó?
-Dialogue: 0,0:12:09.29,0:12:11.29,Default,,0,0,0,,Deja de llorar.
-Dialogue: 0,0:12:11.29,0:12:14.67,Default,,0,0,0,,Si esa es tu reacción,\Ncreo que encontramos la causa.
-Dialogue: 0,0:12:14.67,0:12:18.59,Default,,0,0,0,,¿Por qué? ¿Por qué me dejó Eris?
-Dialogue: 0,0:12:18.59,0:12:19.80,Default,,0,0,0,,¿Por qué?
-Dialogue: 0,0:12:20.22,0:12:25.52,Default,,0,0,0,,En mi experiencia,\Npuede que hayas hecho algo mal antes.
-Dialogue: 0,0:12:25.93,0:12:27.68,Default,,0,0,0,,¿Hice algo mal antes?
+Dialogue: 0,0:11:48.73,0:11:53.53,Default,,0,0,0,,Pasaron demasiadas cosas, y al final lo hicimos.
+Dialogue: 0,0:11:53.53,0:11:55.03,Default,,0,0,0,,Fue nuestra primera vez.
+Dialogue: 0,0:11:55.03,0:11:58.91,Default,,0,0,0,,Bueno, todos tienen una primera vez.
+Dialogue: 0,0:11:59.28,0:12:03.79,Default,,0,0,0,,Pero cuando desperté, ella no estaba.
+Dialogue: 0,0:12:03.79,0:12:05.66,Default,,0,0,0,,Se había ido.
+Dialogue: 0,0:12:05.66,0:12:07.80,Default,,0,0,0,,Entonces, ¿te abandonó?
+Dialogue: 0,0:12:09.35,0:12:11.18,Default,,0,0,0,,No llores.
+Dialogue: 0,0:12:11.18,0:12:14.67,Default,,0,0,0,,Aunque, si esa es tu reacción, ya sabemos la causa.
+Dialogue: 0,0:12:14.67,0:12:16.56,Default,,0,0,0,,¿Por qué, Eris?
+Dialogue: 0,0:12:16.56,0:12:18.56,Default,,0,0,0,,¿Por qué me abandonaste?
+Dialogue: 0,0:12:18.56,0:12:19.80,Default,,0,0,0,,¿Por qué?
+Dialogue: 0,0:12:21.14,0:12:22.77,Default,,0,0,0,,Según mi experiencia,
+Dialogue: 0,0:12:22.77,0:12:25.52,Default,,0,0,0,,puede que hayas hecho algo mal antes.
+Dialogue: 0,0:12:25.98,0:12:27.68,Default,,0,0,0,,¿Hice algo mal?
 Dialogue: 0,0:12:28.48,0:12:31.40,Default,,0,0,0,,Debo de ser muy malo en la cama.
-Dialogue: 0,0:12:30.47,0:12:32.61,DefaultTop,,0,0,0,,Hay que curar esos síntomas antes.
-Dialogue: 0,0:12:33.40,0:12:34.73,Default,,0,0,0,,Vamos a curarte.
-Dialogue: 0,0:12:36.19,0:12:37.82,Default,,0,0,0,,¿Pero cómo?
-Dialogue: 0,0:12:37.82,0:12:39.36,Default,,0,0,0,,Ni idea.
-Dialogue: 0,0:12:39.36,0:12:44.24,Default,,0,0,0,,Pero si ese es el motivo, tienes que cubrirlo con más de lo mismo, ¿no?
-Dialogue: 0,0:12:44.87,0:12:46.24,Default,,0,0,0,,¿A qué te refieres?
-Dialogue: 0,0:12:47.04,0:12:49.08,Default,,0,0,0,,Déjaselo a un profesional.
-Dialogue: 0,0:13:20.65,0:13:21.78,Default,,0,0,0,,Disculpe.
-Dialogue: 0,0:13:22.66,0:13:25.49,Default,,0,0,0,,Soy Elise.\NUn placer conocerlo.
-Dialogue: 0,0:13:26.45,0:13:29.75,Default,,0,0,0,,¿Cuál es su nombre?
-Dialogue: 0,0:13:29.75,0:13:33.46,Default,,0,0,0,,Soy Rudeus. Rudeus Greyrat.
-Dialogue: 0,0:13:34.67,0:13:38.38,Default,,0,0,0,,Un placer conocerlo, Rudeus-sama.
+Dialogue: 0,0:12:30.47,0:12:32.61,DefaultTop,,0,0,0,,Primero hay que curar esos síntomas.
+Dialogue: 0,0:12:33.49,0:12:34.73,Default,,0,0,0,,Vamos a arreglarlo.
+Dialogue: 0,0:12:36.33,0:12:37.82,Default,,0,0,0,,Pero ¿cómo?
+Dialogue: 0,0:12:37.82,0:12:39.36,Default,,0,0,0,,No tengo idea,
+Dialogue: 0,0:12:39.36,0:12:41.75,Default,,0,0,0,,pero si el motivo es ese,
+Dialogue: 0,0:12:41.75,0:12:44.24,Default,,0,0,0,,tienes que reescribirlo.
+Dialogue: 0,0:12:45.00,0:12:46.24,Default,,0,0,0,,¿A qué te refieres?
+Dialogue: 0,0:12:47.00,0:12:49.08,Default,,0,0,0,,Déjaselo a una profesional.
+Dialogue: 0,0:13:20.65,0:13:21.78,Default,,0,0,0,,Con permiso.
+Dialogue: 0,0:13:22.66,0:13:24.00,Default,,0,0,0,,Soy Elise.
+Dialogue: 0,0:13:24.00,0:13:25.49,Default,,0,0,0,,Es un placer.
+Dialogue: 0,0:13:26.49,0:13:29.75,Default,,0,0,0,,¿Podría decirme su nombre?
+Dialogue: 0,0:13:29.75,0:13:31.81,Default,,0,0,0,,Soy Rudeus.
+Dialogue: 0,0:13:31.81,0:13:33.38,Default,,0,0,0,,Rudeus Greyrat.
+Dialogue: 0,0:13:34.67,0:13:36.51,Default,,0,0,0,,Es un placer, Rudeus-sama,
+Dialogue: 0,0:13:36.51,0:13:38.38,Default,,0,0,0,,encantada de conocerlo.
 Dialogue: 0,0:13:39.55,0:13:42.13,Default,,0,0,0,,Su reputación lo precede.
-Dialogue: 0,0:13:42.13,0:13:44.51,Default,,0,0,0,,¿Lo hace?
-Dialogue: 0,0:13:44.51,0:13:48.26,Default,,0,0,0,,Supongo que otro aventurero me mencionó.
-Dialogue: 0,0:13:48.26,0:13:53.27,Default,,0,0,0,,No, una vez encantaste un hechizo en mi hermana sin cobrarnos.
-Dialogue: 0,0:13:53.81,0:13:55.11,Default,,0,0,0,,¿Lo hice?
-Dialogue: 0,0:13:55.11,0:13:59.73,Default,,0,0,0,,Me dijo que pasó el invierno pasado, cuando despejabas la nieve.
-Dialogue: 0,0:14:00.19,0:14:00.94,Default,,0,0,0,,Ah, claro.
-Dialogue: 0,0:14:03.49,0:14:06.83,Default,,0,0,0,,Tener a tal caballero en mi cama
-Dialogue: 0,0:14:06.83,0:14:09.49,Default,,0,0,0,,sí que debe poner a las otras trabajadoras celosas.
-Dialogue: 0,0:14:10.29,0:14:13.62,Default,,0,0,0,,¿Me podría dar otro vaso?
-Dialogue: 0,0:14:13.62,0:14:15.17,Default,,0,0,0,,Sí, tome cuanto desee.
-Dialogue: 0,0:14:17.71,0:14:22.09,Default,,0,0,0,,Pero la noche es joven,\N¿por qué no disfrutas de mí también?
-Dialogue: 0,0:14:22.09,0:14:24.43,Default,,0,0,0,,Sí, por supuesto que lo haré.
-Dialogue: 0,0:14:33.77,0:14:36.35,Default,,0,0,0,,¿Podríamos empezar ahora?
-Dialogue: 0,0:14:36.35,0:14:37.19,Default,,0,0,0,,Claramente.
-Dialogue: 0,0:14:51.33,0:14:54.46,Default,,0,0,0,,Ahora, Rudeus-sama,\N por favor venga a la cama.
-Dialogue: 0,0:14:59.50,0:15:03.26,Default,,0,0,0,,Déjeme atenderlo con todo mi placer.
-Dialogue: 0,0:15:05.34,0:15:10.47,Default,,0,0,0,,Y dije: "voy a derrotar a todos los monstruos con un solo ataque".
+Dialogue: 0,0:13:43.52,0:13:44.51,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:13:44.51,0:13:48.26,Default,,0,0,0,,Supongo que otro aventurero habló de mí.
+Dialogue: 0,0:13:48.26,0:13:49.27,Default,,0,0,0,,No.
+Dialogue: 0,0:13:49.27,0:13:53.27,Default,,0,0,0,,Una vez curó a mi hermana sin cobrarle.
+Dialogue: 0,0:13:53.90,0:13:55.11,Default,,0,0,0,,¿Lo hice?
+Dialogue: 0,0:13:55.11,0:13:59.73,Default,,0,0,0,,Me dijo que fue el invierno pasado,\Ncuando quitaba la nieve.
+Dialogue: 0,0:14:00.19,0:14:00.94,Default,,0,0,0,,Ah...
+Dialogue: 0,0:14:03.49,0:14:06.83,Default,,0,0,0,,Tener a un caballero como usted en mi cama
+Dialogue: 0,0:14:06.83,0:14:09.49,Default,,0,0,0,,pondrá celosas a las demás.
+Dialogue: 0,0:14:10.46,0:14:11.84,Default,,0,0,0,,Bueno...
+Dialogue: 0,0:14:11.84,0:14:13.62,Default,,0,0,0,,¿Puedes darme otro vaso?
+Dialogue: 0,0:14:13.62,0:14:15.17,Default,,0,0,0,,Sí, como desee.
+Dialogue: 0,0:14:17.84,0:14:19.85,Default,,0,0,0,,Pero la noche es joven,
+Dialogue: 0,0:14:19.85,0:14:22.09,Default,,0,0,0,,¿por qué no disfruta de mí también?
+Dialogue: 0,0:14:22.09,0:14:24.43,Default,,0,0,0,,Sí, claro que lo haré.
+Dialogue: 0,0:14:33.82,0:14:36.35,Default,,0,0,0,,¿Empezamos ahora?
+Dialogue: 0,0:14:36.35,0:14:37.19,Default,,0,0,0,,Sí.
+Dialogue: 0,0:14:51.63,0:14:53.50,Default,,0,0,0,,Ahora, Rudeus-sama,
+Dialogue: 0,0:14:53.50,0:14:54.46,Default,,0,0,0,,venga a la cama.
+Dialogue: 0,0:14:59.50,0:15:03.53,Default,,0,0,0,,{\t(3570,4029,1\c&H000000&)}Déjeme servirlo como desee.
+Dialogue: 0,0:15:05.34,0:15:07.65,Default,,0,0,0,,Y en ese momento dije:
+Dialogue: 0,0:15:07.65,0:15:10.47,Default,,0,0,0,,"voy a derrotar a todos\Nlos monstruos con un solo ataque".
 Dialogue: 0,0:15:10.47,0:15:11.47,Default,,0,0,0,,"No podrán..."
-Dialogue: 0,0:15:12.02,0:15:14.56,Default,,0,0,0,,Hola, Pantanoso. ¿Cómo te fue?
-Dialogue: 0,0:15:14.56,0:15:18.77,Default,,0,0,0,,Intentamos todo tipo de cosas, pero ninguna funcionó.
-Dialogue: 0,0:15:18.77,0:15:21.27,Default,,0,0,0,,¿Ah, sí? No funcionó, entonces.
-Dialogue: 0,0:15:21.61,0:15:24.28,Default,,0,0,0,,Perdón por no poder ayudar.
-Dialogue: 0,0:15:24.28,0:15:27.32,Default,,0,0,0,,No, hiciste todo lo que pudiste, Elise-san.
+Dialogue: 0,0:15:12.02,0:15:13.49,Default,,0,0,0,,Hola, Pantano.
+Dialogue: 0,0:15:13.49,0:15:14.53,Default,,0,0,0,,¿Cómo te fue?
+Dialogue: 0,0:15:14.53,0:15:17.53,Default,,0,0,0,,Intentamos todo tipo de cosas,
+Dialogue: 0,0:15:17.53,0:15:18.77,Default,,0,0,0,,pero no pude.
+Dialogue: 0,0:15:18.77,0:15:20.28,Default,,0,0,0,,Ah, ya veo.
+Dialogue: 0,0:15:20.28,0:15:21.27,Default,,0,0,0,,No funcionó.
+Dialogue: 0,0:15:21.70,0:15:24.20,Default,,0,0,0,,Lamento por no ser de ayuda.
+Dialogue: 0,0:15:24.20,0:15:25.20,Default,,0,0,0,,No.
+Dialogue: 0,0:15:25.20,0:15:27.32,Default,,0,0,0,,Elise-san, hiciste lo que pudiste.
 Dialogue: 0,0:15:27.32,0:15:30.28,Default,,0,0,0,,¿Qué hacemos ahora?
-Dialogue: 0,0:15:30.28,0:15:32.79,Default,,0,0,0,,¿Tú que opinas?
-Dialogue: 0,0:15:34.37,0:15:39.38,Default,,0,0,0,,Me parece que Rudeus-sama\Nle tiene miedo a las mujeres. {muchos "literally me" en 4chan}
-Dialogue: 0,0:15:39.38,0:15:43.42,Default,,0,0,0,,Tal vez pueda ayudarlo alguna\Nmujer que él no le tenga miedo.
-Dialogue: 0,0:15:43.92,0:15:48.59,Default,,0,0,0,,O alguien con el que\Nesté seguro de que no lo va a dejar.
+Dialogue: 0,0:15:30.28,0:15:32.79,Default,,0,0,0,,¿Tú que piensas?
+Dialogue: 0,0:15:34.29,0:15:39.30,Default,,0,0,0,,Creo que Rudeus-sama\N le tiene miedo a las mujeres. {muchos "literally me" en 4chan}
+Dialogue: 0,0:15:39.30,0:15:43.42,Default,,0,0,0,,Tal vez si estuviera\Ncon alguien a quien no le tema,
+Dialogue: 0,0:15:43.92,0:15:48.59,Default,,0,0,0,,o alguien que sepa que\Nno lo va a odiar, ayudaría.
 Dialogue: 0,0:15:48.59,0:15:49.43,Default,,0,0,0,,¿Hay alguien?
-Dialogue: 0,0:15:50.18,0:15:55.43,Default,,0,0,0,,{\i1}Por un momento\Npensé en Roxy, pero eso no funcionará.
-Dialogue: 0,0:15:55.98,0:15:59.02,Default,,0,0,0,,Me temo que esas relaciones no se pueden apresurar.
-Dialogue: 0,0:15:59.02,0:16:01.15,Default,,0,0,0,,Tienen que ser cultivadas poco a poco.
-Dialogue: 0,0:16:01.15,0:16:02.98,Default,,0,0,0,,Tiene sentido.
-Dialogue: 0,0:16:03.36,0:16:05.32,Default,,0,0,0,,Bien, emborráchate esta noche.
-Dialogue: 0,0:16:05.32,0:16:06.65,Default,,0,0,0,,Toma como si no hubiese mañana.
-Dialogue: 0,0:16:07.49,0:16:08.78,Default,,0,0,0,,Claro.
-Dialogue: 0,0:16:13.79,0:16:17.79,Default,,0,0,0,,Disculpen, señores.\NYa vamos a cerrar.
-Dialogue: 0,0:16:19.42,0:16:22.71,Default,,0,0,0,,¿Qué? ¿Tan tarde es?
-Dialogue: 0,0:16:27.80,0:16:29.80,Default,,0,0,0,,Oye, Pantanoso...
-Dialogue: 0,0:16:29.80,0:16:31.39,Default,,0,0,0,,¿Sí?
-Dialogue: 0,0:16:31.80,0:16:37.77,Default,,0,0,0,,Cuando estoy en un laberinto, intento tomar las cosas con calma.
+Dialogue: 0,0:15:50.18,0:15:53.83,Default,,0,0,0,,{\i1}Por un momento pensé en Roxy,
+Dialogue: 0,0:15:53.83,0:15:55.43,Default,,0,0,0,,{\i1}pero no funcionará.
+Dialogue: 0,0:15:55.98,0:15:58.90,Default,,0,0,0,,Me temo que esas relaciones\Nno se pueden apresurar.
+Dialogue: 0,0:15:58.90,0:16:01.15,Default,,0,0,0,,Deben cultivarse con el tiempo.
+Dialogue: 0,0:16:01.15,0:16:03.16,Default,,0,0,0,,Tiene sentido.
+Dialogue: 0,0:16:03.36,0:16:05.32,Default,,0,0,0,,Bueno, hoy emborráchate.
+Dialogue: 0,0:16:05.32,0:16:06.65,Default,,0,0,0,,Bebe como si no hubiera un mañana.
+Dialogue: 0,0:16:07.49,0:16:08.78,Default,,0,0,0,,Sí.
+Dialogue: 0,0:16:13.79,0:16:15.54,Default,,0,0,0,,Disculpen, señores.
+Dialogue: 0,0:16:15.54,0:16:17.79,Default,,0,0,0,,Vamos a cerrar.
+Dialogue: 0,0:16:19.42,0:16:20.47,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:16:20.47,0:16:22.71,Default,,0,0,0,,¿Ya se hizo tarde?
+Dialogue: 0,0:16:27.90,0:16:29.80,Default,,0,0,0,,Oye, Pantano...
+Dialogue: 0,0:16:29.80,0:16:31.39,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:16:31.85,0:16:35.30,Default,,0,0,0,,Cuando estoy en un laberinto,
+Dialogue: 0,0:16:35.30,0:16:37.77,Default,,0,0,0,,intento tomarme las cosas con calma.
 Dialogue: 0,0:16:38.31,0:16:39.23,Default,,0,0,0,,¿Sí?
-Dialogue: 0,0:16:39.60,0:16:44.69,Default,,0,0,0,,Cuanto más desciendas,\Nmás fuertes serán los monstruos.
-Dialogue: 0,0:16:44.69,0:16:47.24,Default,,0,0,0,,Incluso hay veces que especies distintas de monstruos se unen.
-Dialogue: 0,0:16:47.90,0:16:53.07,Default,,0,0,0,,Cuando eso pasa, hacer las cosas apresuradamente puede lastimar a otros.
-Dialogue: 0,0:16:53.45,0:16:54.20,Default,,0,0,0,,¿Ah, sí?
-Dialogue: 0,0:16:54.20,0:16:59.41,Default,,0,0,0,,Así que, te quedas un piso arriba y te acostumbras poco a poco.
-Dialogue: 0,0:16:59.41,0:17:01.79,Default,,0,0,0,,Eso funciona bien. ¿Me entiendes?
-Dialogue: 0,0:17:02.25,0:17:04.29,Default,,0,0,0,,¡Sí, funciona muy bien!
-Dialogue: 0,0:17:04.29,0:17:09.17,Default,,0,0,0,,Con esa… ¿Sara?\NTal vez hiciste las cosas muy rápido con ella.
-Dialogue: 0,0:17:09.17,0:17:11.89,Default,,0,0,0,,¿Rápido?\N¿A qué te refieres con eso?
-Dialogue: 0,0:17:11.89,0:17:15.93,Default,,0,0,0,,Sí, soy rápido, pero ni que\Nhubiésemos llegado lejos.
-Dialogue: 0,0:17:15.93,0:17:20.56,Default,,0,0,0,,No, digo, ella ya estaba lista para dártelo,
-Dialogue: 0,0:17:20.56,0:17:26.77,Default,,0,0,0,,pero tal vez tú necesitabas más tiempo para prepararte emocionalmente, ya sabes.
-Dialogue: 0,0:17:27.11,0:17:31.91,Default,,0,0,0,,Eso dices tú, pero ella me dijo\Nque fue solo una obligación.
-Dialogue: 0,0:17:31.91,0:17:37.99,Default,,0,0,0,,Para nada. Por lo que vi, a ella le gustabas.
-Dialogue: 0,0:17:42.25,0:17:44.33,Default,,0,0,0,,Bueno, tienes tiempo.
+Dialogue: 0,0:16:39.60,0:16:40.88,Default,,0,0,0,,Cuanto más avances,
+Dialogue: 0,0:16:40.88,0:16:44.69,Default,,0,0,0,,más fuertes serán\Nlos monstruos que te encontrarás.
+Dialogue: 0,0:16:44.69,0:16:47.24,Default,,0,0,0,,A veces dos especies hacen equipo.
+Dialogue: 0,0:16:47.90,0:16:51.00,Default,,0,0,0,,En ese momento, apresurar las cosas
+Dialogue: 0,0:16:51.00,0:16:53.07,Default,,0,0,0,,solo hará que más gente salga lastimada.
+Dialogue: 0,0:16:53.45,0:16:54.20,Default,,0,0,0,,¿Sí?
+Dialogue: 0,0:16:54.20,0:16:55.92,Default,,0,0,0,,Lo que quiero decir es...
+Dialogue: 0,0:16:55.92,0:16:59.41,Default,,0,0,0,,Si te quedas en el primer piso, te acostumbrarás.
+Dialogue: 0,0:16:59.41,0:17:01.05,Default,,0,0,0,,Eso funciona.
+Dialogue: 0,0:17:01.05,0:17:01.79,Default,,0,0,0,,¿Entiendes?
+Dialogue: 0,0:17:02.25,0:17:04.29,Default,,0,0,0,,¡Sí, funciona!
+Dialogue: 0,0:17:04.29,0:17:06.85,Default,,0,0,0,,Se llama Sara, ¿no?
+Dialogue: 0,0:17:06.85,0:17:09.17,Default,,0,0,0,,Tal vez fuiste muy rápido con ella.
+Dialogue: 0,0:17:09.17,0:17:10.14,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:17:10.14,0:17:11.89,Default,,0,0,0,,¿A qué te refieres?
+Dialogue: 0,0:17:11.89,0:17:15.93,Default,,0,0,0,,Sí, fue rápido, pero\Nni que hubiéramos llegado tan lejos.
+Dialogue: 0,0:17:15.93,0:17:17.80,Default,,0,0,0,,No hablo de eso.
+Dialogue: 0,0:17:17.80,0:17:20.56,Default,,0,0,0,,Parece que ella estaba lista para hacerlo,
+Dialogue: 0,0:17:20.56,0:17:26.77,Default,,0,0,0,,pero tal vez tú necesitas más tiempo\Npara prepararte emocionalmente, ¿sabes?
+Dialogue: 0,0:17:27.11,0:17:29.62,Default,,0,0,0,,No tiene nada que ver con estar preparado.
+Dialogue: 0,0:17:29.62,0:17:31.91,Default,,0,0,0,,Ella dijo que solo era una obligación.
+Dialogue: 0,0:17:31.91,0:17:33.10,Default,,0,0,0,,No.
+Dialogue: 0,0:17:33.10,0:17:37.99,Default,,0,0,0,,Yo creo que a esa arquera sí le gustabas.
+Dialogue: 0,0:17:42.25,0:17:44.33,Default,,0,0,0,,Bueno, aún tienes tiempo.
 Dialogue: 0,0:17:44.33,0:17:47.42,Default,,0,0,0,,¿Por qué no vas a verla y hablan? {:clueless:}
-Dialogue: 0,0:17:47.42,0:17:53.05,Default,,0,0,0,,Entiendo.\NIré a verla en la tarde o mañana.
+Dialogue: 0,0:17:47.42,0:17:49.09,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:17:49.09,0:17:53.05,Default,,0,0,0,,Iré a verla en la tarde o mañana.
 Dialogue: 0,0:17:53.05,0:17:54.80,Default,,0,0,0,,¿Seguro que entiendes?
 Dialogue: 0,0:17:55.30,0:17:56.39,Default,,0,0,0,,Hoy en realidad es...
-Dialogue: 0,0:17:56.39,0:18:00.22,Default,,0,0,0,,¡Dije que entendí!\N¡Deja de parlotear!
+Dialogue: 0,0:17:56.39,0:17:58.44,Default,,0,0,0,,¡Ya entendí!
+Dialogue: 0,0:17:58.44,0:18:00.22,Default,,0,0,0,,Deja de hablar.
 Dialogue: 0,0:18:00.73,0:18:03.69,Default,,0,0,0,,Bueno, qué más da si no funcionan las cosas.
-Dialogue: 0,0:18:03.69,0:18:07.65,Default,,0,0,0,,¡Igual no quiero a una mujer como ella!\N¡Se parece a una niña!
-Dialogue: 0,0:18:07.65,0:18:11.65,Default,,0,0,0,,¡Las mujeres deben tenerlas grandes, como Elise!
-Dialogue: 0,0:18:12.78,0:18:16.07,Default,,0,0,0,,¿No crees, Soldat?\N¿Tengo razón o no?
-Dialogue: 0,0:18:16.07,0:18:18.20,Default,,0,0,0,,¿Ir de compras? ¿Salir a comer?
-Dialogue: 0,0:18:18.20,0:18:22.41,Default,,0,0,0,,Imagina hacer esas cosas para niños.
-Dialogue: 0,0:18:22.41,0:18:24.83,Default,,0,0,0,,Oye, Pantanoso, ya deja de...
-Dialogue: 0,0:18:24.83,0:18:29.59,Default,,0,0,0,,¿Dejar de qué?\N¡No hay nada que dejar!
-Dialogue: 0,0:18:30.05,0:18:30.88,Default,,0,0,0,,¿Qué?
-Dialogue: 0,0:18:40.31,0:18:42.98,Default,,0,0,0,,No, Sara, yo no...
-Dialogue: 0,0:18:47.69,0:18:51.28,Default,,0,0,0,,No quiero volver a verte, idiota.
-Dialogue: 0,0:19:02.04,0:19:04.71,Default,,0,0,0,,Eso no se hace.
-Dialogue: 0,0:19:22.10,0:19:24.10,Default,,0,0,0,,¡Espera, estúpido!
-Dialogue: 0,0:19:24.10,0:19:27.56,Default,,0,0,0,,Ve tras ella y explícale.
-Dialogue: 0,0:19:27.56,0:19:29.73,Default,,0,0,0,,Levántate y corre.
-Dialogue: 0,0:19:30.19,0:19:33.19,Default,,0,0,0,,Ya ni me importa.
-Dialogue: 0,0:19:33.19,0:19:36.53,Default,,0,0,0,,No tengo ganas de nada. {mood}
-Dialogue: 0,0:19:37.45,0:19:41.70,Default,,0,0,0,,Bien, ¿por qué no vas a casa?
-Dialogue: 0,0:19:41.70,0:19:44.83,Default,,0,0,0,,¿En dónde está tu viejo? ¿En Asura?
+Dialogue: 0,0:18:03.69,0:18:05.74,Default,,0,0,0,,Igual no quiero a una mujer como ella.
+Dialogue: 0,0:18:05.74,0:18:07.65,Default,,0,0,0,,Se parece a una niña.
+Dialogue: 0,0:18:07.65,0:18:11.65,Default,,0,0,0,,¡Las mujeres deben tenerlas grandes como Elise!
+Dialogue: 0,0:18:12.78,0:18:14.33,Default,,0,0,0,,¿Qué dices, Soldat?
+Dialogue: 0,0:18:14.33,0:18:16.16,Default,,0,0,0,,Tengo razón, ¿no?
+Dialogue: 0,0:18:16.16,0:18:18.17,Default,,0,0,0,,Ir de compras, salir a comer...
+Dialogue: 0,0:18:18.17,0:18:20.42,Default,,0,0,0,,Imagina hacer esas tonterías.
+Dialogue: 0,0:18:20.42,0:18:22.41,Default,,0,0,0,,No estamos jugando a la casita.
+Dialogue: 0,0:18:22.41,0:18:24.83,Default,,0,0,0,,Oye, Pantano, ya para de...
+Dialogue: 0,0:18:24.83,0:18:26.51,Default,,0,0,0,,¿Por qué tengo que parar?
+Dialogue: 0,0:18:26.51,0:18:29.59,Default,,0,0,0,,¡No voy a parar nada!
+Dialogue: 0,0:18:30.05,0:18:30.88,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:18:40.31,0:18:42.61,Default,,0,0,0,,Sara, yo no...
+Dialogue: 0,0:18:47.86,0:18:49.11,Default,,0,0,0,,Eres el peor.
+Dialogue: 0,0:18:49.11,0:18:51.28,Default,,0,0,0,,No quiero volver a verte.
+Dialogue: 0,0:19:02.04,0:19:04.71,Default,,0,0,0,,Eso fue inaceptable.
+Dialogue: 0,0:19:22.23,0:19:24.10,Default,,0,0,0,,¡Idiota, detente!
+Dialogue: 0,0:19:24.10,0:19:27.53,Default,,0,0,0,,Ve tras ella y explícale.
+Dialogue: 0,0:19:27.53,0:19:28.90,Default,,0,0,0,,Levántate rápido.
+Dialogue: 0,0:19:28.90,0:19:29.73,Default,,0,0,0,,Corre.
+Dialogue: 0,0:19:30.28,0:19:33.19,Default,,0,0,0,,Ya no importa.
+Dialogue: 0,0:19:33.19,0:19:36.53,Default,,0,0,0,,No me importa nada. {mood}
+Dialogue: 0,0:19:37.45,0:19:39.79,Default,,0,0,0,,Bueno, entonces...
+Dialogue: 0,0:19:39.79,0:19:41.79,Default,,0,0,0,,¿Por qué no vuelves a casa?
+Dialogue: 0,0:19:41.79,0:19:43.29,Default,,0,0,0,,¿En dónde está tu viejo?
+Dialogue: 0,0:19:43.29,0:19:44.83,Default,,0,0,0,,¿En el Reino de Asura?
 Dialogue: 0,0:19:45.54,0:19:46.62,Default,,0,0,0,,Millis.
 Dialogue: 0,0:19:46.62,0:19:48.79,Default,,0,0,0,,Está lejos, ¿eh?
-Dialogue: 0,0:19:52.17,0:19:55.05,Default,,0,0,0,,Quieres ir con nosotros, ¿entonces?
-Dialogue: 0,0:19:56.47,0:19:57.43,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:19:58.01,0:20:02.26,Default,,0,0,0,,Descubrieron un gran laberinto\Nen el ducado de Neris.
-Dialogue: 0,0:20:02.26,0:20:04.93,Default,,0,0,0,,Pensábamos en ir hoy más tarde.
-Dialogue: 0,0:20:05.43,0:20:07.14,Default,,0,0,0,,¿Te nos unes?
-Dialogue: 0,0:20:08.56,0:20:14.07,Default,,0,0,0,,¿Por qué me ofreces eso?\NPensé que me odiabas.
-Dialogue: 0,0:20:14.07,0:20:21.99,Default,,0,0,0,,Sí. No soportaba tu sonrisita rara\Nni tu bondad desagradable.
-Dialogue: 0,0:20:21.99,0:20:25.08,Default,,0,0,0,,Pero ahora ya sé cómo eres en verdad.
-Dialogue: 0,0:20:25.41,0:20:30.83,Default,,0,0,0,,Ya sé y acepto por qué actúas así,\Nasí que ya no tengo por qué odiarte.
-Dialogue: 0,0:20:31.71,0:20:35.42,Default,,0,0,0,,{\i1}Siento que malinterpreté a Soldat.
-Dialogue: 0,0:20:35.42,0:20:39.34,Default,,0,0,0,,{\i1}Me alejé de solo por mi primera impresión de él.
-Dialogue: 0,0:20:39.72,0:20:43.43,Default,,0,0,0,,{\i1}Pero, puede que sea más bondadoso de lo que creía.
-Dialogue: 0,0:20:43.43,0:20:45.35,Default,,0,0,0,,¿Y, qué dices?
-Dialogue: 0,0:20:56.65,0:20:57.69,Default,,0,0,0,,Iré.
+Dialogue: 0,0:19:52.17,0:19:53.48,Default,,0,0,0,,Entonces,
+Dialogue: 0,0:19:53.48,0:19:55.18,Default,,0,0,0,,¿quieres venir con nosotros?
+Dialogue: 0,0:19:56.56,0:19:57.43,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:19:58.06,0:20:02.26,Default,,0,0,0,,Descubrieron un gran laberinto en el Ducado de Neris.
+Dialogue: 0,0:20:02.26,0:20:04.93,Default,,0,0,0,,Pensábamos ir hoy en la tarde.
+Dialogue: 0,0:20:05.43,0:20:07.14,Default,,0,0,0,,¿Vienes con nosotros?
+Dialogue: 0,0:20:08.56,0:20:12.07,Default,,0,0,0,,¿Por qué me ofreces eso?
+Dialogue: 0,0:20:12.07,0:20:14.07,Default,,0,0,0,,Pensé que me odiabas.
+Dialogue: 0,0:20:14.07,0:20:15.70,Default,,0,0,0,,Sí.
+Dialogue: 0,0:20:15.70,0:20:17.53,Default,,0,0,0,,No soportaba tu sonrisita de mierda
+Dialogue: 0,0:20:17.53,0:20:21.92,Default,,0,0,0,,ni esa asquerosa formalidad con la que hablabas,
+Dialogue: 0,0:20:21.92,0:20:25.08,Default,,0,0,0,,pero ahora ya sé cómo eres.
+Dialogue: 0,0:20:25.41,0:20:28.59,Default,,0,0,0,,Comprendo que tenías tus propias circunstancias,
+Dialogue: 0,0:20:28.59,0:20:30.83,Default,,0,0,0,,así que ya no necesito odiarte.
+Dialogue: 0,0:20:31.71,0:20:35.42,Default,,0,0,0,,{\i1}Creo que malinterpreté a Soldat.
+Dialogue: 0,0:20:35.42,0:20:39.72,Default,,0,0,0,,{\i1}Me alejé de él solo por\Nla primera impresión que me dio,
+Dialogue: 0,0:20:39.72,0:20:43.43,Default,,0,0,0,,{\i1}pero tal vez sea más amable de lo que parece.
+Dialogue: 0,0:20:43.43,0:20:43.98,Default,,0,0,0,,¿Y?
+Dialogue: 0,0:20:43.98,0:20:45.35,Default,,0,0,0,,¿Qué dices?
+Dialogue: 0,0:20:56.70,0:20:58.19,Default,,0,0,0,,Iré.
 Dialogue: 0,0:20:58.19,0:20:59.70,Default,,0,0,0,,Llévame, por favor.
-Dialogue: 0,0:21:00.20,0:21:01.61,Default,,0,0,0,,Claro.
-Dialogue: 0,0:21:01.91,0:21:03.32,Default,,0,0,0,,¿Qué esperamos?
-Dialogue: 0,0:22:39.80,0:22:44.47,Default,,0,0,0,,¿Escuchaste sobre ese mago\Nque apareció recientemente?
-Dialogue: 0,0:22:44.47,0:22:50.31,Default,,0,0,0,,Gracias a él, un grupo de menos\Nde 20 derrotó a un dragón.
+Dialogue: 0,0:21:00.20,0:21:01.61,Default,,0,0,0,,Bien.
+Dialogue: 0,0:21:01.61,0:21:03.32,Default,,0,0,0,,¿Qué esperamos?
+Dialogue: 0,0:22:39.80,0:22:41.45,Default,,0,0,0,,Oye, ¿lo escuchaste?
+Dialogue: 0,0:22:41.45,0:22:44.47,Default,,0,0,0,,Hay un nuevo mago que apareció hace poco.
+Dialogue: 0,0:22:44.47,0:22:46.24,Default,,0,0,0,,Dicen que, gracias a él,
+Dialogue: 0,0:22:46.24,0:22:50.31,Default,,0,0,0,,un grupo de menos de veinte derrotó a un dragón.
 Dialogue: 0,0:22:50.31,0:22:53.27,Default,,0,0,0,,¿Cómo se llama?
-Dialogue: 0,0:22:53.27,0:22:57.02,Default,,0,0,0,,Creo que era... Pantanoso Rudeus.
-Dialogue: 0,0:22:57.02,0:22:58.94,Default,,0,0,0,,Pantanoso, ¿eh?
-Dialogue: 0,0:22:58.94,0:23:02.32,Default,,0,0,0,,¿Les importa contarme más sobre ese rumor?
+Dialogue: 0,0:22:53.27,0:22:54.33,Default,,0,0,0,,Este...
+Dialogue: 0,0:22:54.33,0:22:57.02,Default,,0,0,0,,Creo que era Rudeus el Pantano.
+Dialogue: 0,0:22:57.02,0:22:58.94,Default,,0,0,0,,Pantano, ¿eh?
+Dialogue: 0,0:22:58.94,0:23:02.32,Default,,0,0,0,,¿Les importaría contarme más de ese rumor?
 Dialogue: 0,0:23:02.32,0:23:04.20,Default,,0,0,0,,¿Qué rumor?
-Dialogue: 0,0:23:04.20,0:23:08.66,Default,,0,0,0,,El de ese aventurero, Pantanoso Rudeus.
-Dialogue: 0,0:23:08.66,0:23:12.45,Default,,0,0,0,,Bueno, no es que sepa mucho.
-Dialogue: 0,0:23:12.45,0:23:14.37,Default,,0,0,0,,Vamos, piensa bien.
-Dialogue: 0,0:23:14.37,0:23:19.75,Default,,0,0,0,,Si recuerdas algo más, podrás hacer\Nlo que quieras con mi cuerpo.
-Dialogue: 0,0:23:22.80,0:23:24.26,Default,,0,0,0,,¡Ya sé!
-Dialogue: 0,0:23:24.72,0:23:27.97,Default,,0,0,0,,¡Basherant! Está en la tercera\Nciudad de Basherant, Pippin.
-Dialogue: 0,0:23:27.97,0:23:29.26,Default,,0,0,0,,Ah, ¿lo está?
-Dialogue: 0,0:23:29.26,0:23:31.22,Default,,0,0,0,,Muchas gracias.
-Dialogue: 0,0:23:31.60,0:23:33.85,Default,,0,0,0,,Finalmente lo encontré.
-
+Dialogue: 0,0:23:04.20,0:23:08.66,Default,,0,0,0,,El de ese aventurero al que\N llaman Rudeus el Pantano.
+Dialogue: 0,0:23:08.66,0:23:12.45,Default,,0,0,0,,Bueno, tampoco es que sepa mucho.
+Dialogue: 0,0:23:12.45,0:23:13.80,Default,,0,0,0,,Vamos, esfuérzate.
+Dialogue: 0,0:23:14.37,0:23:16.26,Default,,0,0,0,,Si recuerdas algo más,
+Dialogue: 0,0:23:16.26,0:23:19.75,Default,,0,0,0,,podrás hacer lo que quieras con mi cuerpo.
+Dialogue: 0,0:23:22.80,0:23:24.26,Default,,0,0,0,,¡Ah, ya recordé!
+Dialogue: 0,0:23:24.72,0:23:25.85,Default,,0,0,0,,¡Basherant!
+Dialogue: 0,0:23:25.85,0:23:27.97,Default,,0,0,0,,Está en la tercera ciudad de Basherant, Pippin.
+Dialogue: 0,0:23:27.97,0:23:29.35,Default,,0,0,0,,Ah, ¿en serio?
+Dialogue: 0,0:23:29.35,0:23:31.22,Default,,0,0,0,,Muchas gracias.
+Dialogue: 0,0:23:31.65,0:23:33.85,Default,,0,0,0,,Por fin te encontré.
