@@ -18,7 +18,7 @@
 - **División de líneas y hater profesional**: Egumo
 - **KFX:** Kuro Diamonds
 - **QC**: Not an important part of the fansubbing process.
-- **Encode:** NF/Crunchyroll
+- **Encode:** sam (remux)
 
 ---
 
